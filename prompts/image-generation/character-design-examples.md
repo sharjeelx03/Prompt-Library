@@ -237,15 +237,11 @@ Nyx, elite cybernetic assassin standing atop a skyscraper overlooking a neon meg
 
 ---
 
-# Example 3 — Mars Explorer
+# Mars Explorer
 
 **Image file:**
 
-```text
-assets/mars-explorer.jpg
-```
-
-![Mars Explorer](assets/mars-explorer.jpg)
+![Mars Explorer](assets/mars-explorer.png)
 
 ## Example Usage
 
