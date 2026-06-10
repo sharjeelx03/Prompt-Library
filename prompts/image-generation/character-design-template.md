@@ -1,4 +1,4 @@
-````md
+
 # Character Design Template
 
 ## Metadata
