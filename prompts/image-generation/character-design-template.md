@@ -1,6 +1,8 @@
 
 # Character Design Template  Version v1.0.0
 
+![Forest Ranger](assets/forest-ranger.png)
+
 ## Metadata
 
 | Field | Details |
@@ -9,8 +11,6 @@
 | **Difficulty** | Advanced |
 | **Models Tested** | Midjourney, Flux, SDXL, DALL·E, Ideogram |
 | **Author** | [shareelx03](https://github.com/sharjeelx03) |
-
-![Forest Ranger](assets/forest-ranger.png)
 
 
 ## Description
