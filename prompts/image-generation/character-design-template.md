@@ -8,7 +8,7 @@
 | **Category** | Image Generation |
 | **Difficulty** | Advanced |
 | **Models Tested** | Midjourney, Flux, SDXL, DALL·E, Ideogram |
-| **Author** | @YOUR_USERNAME |
+| **Author** | @sharjeelx03 |
 
 ---
 
