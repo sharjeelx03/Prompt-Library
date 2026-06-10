@@ -1542,15 +1542,11 @@ Elowen, guardian ranger of an ancient enchanted forest, standing among towering 
 
 ---
 
-# Example 14 — Mech Pilot
+# Mech Pilot
 
 **Image file:**
 
-```text
-assets/mech-pilot.jpg
-```
-
-![Mech Pilot](assets/mech-pilot.jpg)
+![Mech Pilot](assets/mech-pilot.png)
 
 ## Example Usage
 
@@ -1665,15 +1661,11 @@ Titan-7, elite mech pilot standing before a colossal combat mech in a war-torn f
 
 ---
 
-# Example 15 — Whiskers & Nibbles
+# Whiskers & Nibbles
 
 **Image file:**
 
-```text
-assets/whiskers-and-nibbles.jpg
-```
-
-![Whiskers & Nibbles](assets/whiskers-and-nibbles.jpg)
+![Whiskers & Nibbles](assets/whiskers-and-nibbles.png)
 
 ## Example Usage
 
