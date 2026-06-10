@@ -1,9 +1,22 @@
+<div align="center">
 
-# Character Design Template  Version v1.0.0
+# 🎨 Character Design Template
+
+**Version 1.0.0** &nbsp;·&nbsp; Image Generation &nbsp;·&nbsp; Advanced
+
+*A structured prompt framework for creating highly detailed, story-driven, and visually compelling character designs.*
+
+[![Models](https://img.shields.io/badge/Models-Midjourney%20%7C%20Flux%20%7C%20SDXL%20%7C%20DALL·E%20%7C%20Ideogram-blue)](#model-notes)
+[![License](https://img.shields.io/badge/License-MIT-green)](#license)
+[![Author](https://img.shields.io/badge/Author-sharjeelx03-lightgrey)](https://github.com/sharjeelx03)
 
 ![Forest Ranger](assets/forest-ranger.png)
 
-## Metadata
+</div>
+
+---
+
+## 📋 Overview
 
 | Field | Details |
 |---|---|
@@ -12,16 +25,38 @@
 | **Models Tested** | Midjourney, Flux, SDXL, DALL·E, Ideogram |
 | **Author** | [shareelx03](https://github.com/sharjeelx03) |
 
-
-## Description
-
-Create highly detailed, story-driven, and visually compelling character designs using a structured prompt framework.
-
-This template helps generate consistent, professional-quality characters across multiple genres, environments, and artistic styles.
+This template helps generate consistent, professional-quality characters across multiple **genres**, **environments**, and **artistic styles** — from gritty realism to epic fantasy and hard sci-fi.
 
 ---
 
-## The Prompt
+## 📖 Table of Contents
+
+1. [The Prompt Template](#the-prompt-template)
+2. [Character Examples](#character-examples)
+   - [Village Farmer](#-village-farmer)
+   - [Cyberpunk Assassin](#-cyberpunk-assassin)
+   - [Mars Explorer](#-mars-explorer)
+   - [Moon Guardian](#-moon-guardian)
+   - [Mud Arena Warrior](#-mud-arena-warrior)
+   - [Deep Sea Diver](#-deep-sea-diver)
+   - [Arctic Survivalist](#-arctic-survivalist)
+   - [Jungle Hunter](#-jungle-hunter)
+   - [Volcano Blacksmith](#-volcano-blacksmith)
+   - [Space Station Engineer](#-space-station-engineer)
+   - [Desert Nomad](#-desert-nomad)
+   - [Medieval King](#-medieval-king)
+   - [Forest Ranger](#-forest-ranger)
+   - [Mech Pilot](#-mech-pilot)
+   - [Whiskers & Nibbles](#-whiskers--nibbles)
+3. [Tips for Best Results](#-tips-for-best-results)
+4. [Style Variations](#-style-variations)
+5. [Model Notes](#-model-notes)
+6. [Contribution Checklist](#-contribution-checklist)
+7. [License](#-license)
+
+---
+
+## 🧩 The Prompt Template
 
 ```text
 Create a highly detailed, original character design with strong visual storytelling and professional concept-art quality.
@@ -111,201 +146,72 @@ Art style: [VISUAL_STYLE]. Color palette dominated by [COLOR_PALETTE]. Lighting 
 
 Negative Prompt:
 blurry, low quality, bad anatomy, extra limbs, duplicate body parts, distorted face, watermark, text, logo, cropped subject, poorly drawn hands, low detail, oversaturated colors, unrealistic proportions
-````
+```
 
 ---
 
-## Example Usage
+## 🗂 Character Examples
 
-### Input
-
-See the complete examples collection below.
-
-### Output
-
-A production-ready image generation prompt optimized for modern image models.
+> Each example includes a complete template input, a generated output prompt, and a final rendered image.  
+> Characters span diverse environments, visual styles, and archetypes.
 
 ---
 
-## Additional Examples
-
-View the complete gallery:
-
-➡️ **[Character Design Examples](#village-farmer)**
-
-Included Examples:
-
-1. Village Farmer
-2. Cyberpunk Assassin
-3. Mars Explorer
-4. Moon Guardian
-5. Mud Arena Warrior
-6. Deep Sea Diver
-7. Arctic Survivalist
-8. Jungle Hunter
-9. Volcano Blacksmith
-10. Space Station Engineer
-11. Desert Nomad
-12. Medieval King
-13. Forest Ranger
-14. Mech Pilot
-15. Whiskers & Nibbles
-
-Each example contains:
-
-* Complete template input
-* Generated output prompt
-* Final rendered image
-* Different environments
-* Different visual styles
-* Different character archetypes
-
----
-
-## Tips for Best Results
-
-* Use original characters instead of copyrighted characters.
-* Define environment before visual style.
-* Use specific personality traits.
-* Include lighting and camera details.
-* Keep color palettes focused.
-* Use realistic material descriptions.
-* Avoid contradictory styles.
-* Add atmosphere for cinematic depth.
-
----
-
-## Variations
-
-* Fantasy Character Design
-* Science Fiction Character Design
-* Historical Character Design
-* Cartoon Character Design
-* Game Character Design
-* Creature Design
-* Superhero Design
-* Villain Design
-* Mascot Design
-
----
-
-## License
-
-MIT License
-
-
-# Village Farmer
-
-**Image file:**
+### 🌾 Village Farmer
 
 ![Village Farmer](assets/village-farmer.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Abdul Rahman
-
 CHARACTER_TYPE: Village Farmer
-
 GENDER: Male
-
 AGE_RANGE: 55-65
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: Wheat Farmer
 
-PERSONALITY_TRAITS:
-hardworking, humble, wise, patient
+PERSONALITY_TRAITS: hardworking, humble, wise, patient
+ARCHETYPE: mentor
+BACKSTORY_THEME: generations of farming tradition
+CURRENT_EMOTION: contentment
 
-ARCHETYPE:
-mentor
+BODY_TYPE: lean and weathered
+FACIAL_FEATURES: sun-tanned skin, wrinkles, kind eyes
+EYE_DETAILS: warm brown eyes
+HAIRSTYLE: short gray hair
+SURFACE_DETAILS: weathered skin from years of outdoor work
+UNIQUE_FEATURES: traditional village turban
 
-BACKSTORY_THEME:
-generations of farming tradition
+OUTFIT_OR_ARMOR: cotton shalwar kameez
+ACCESSORIES: wooden farming tools
+WEAPONS_OR_TOOLS: farming sickle
+TECH_LEVEL: traditional
 
-CURRENT_EMOTION:
-contentment
+POSE: standing proudly
+ACTION: looking across his wheat fields
+EXPRESSION: gentle smile
 
-BODY_TYPE:
-lean and weathered
+ENVIRONMENT: rural farmland
+TIME_OF_DAY: sunrise
+ATMOSPHERE: morning mist
 
-FACIAL_FEATURES:
-sun-tanned skin, wrinkles, kind eyes
+VISUAL_STYLE: cinematic realism
+COLOR_PALETTE: golden yellow, earthy brown, green
+LIGHTING: warm sunrise lighting
+COMPOSITION: rule of thirds
+CAMERA_ANGLE: eye level
+LENS_TYPE: 50mm
 
-EYE_DETAILS:
-warm brown eyes
-
-HAIRSTYLE:
-short gray hair
-
-SURFACE_DETAILS:
-weathered skin from years of outdoor work
-
-UNIQUE_FEATURES:
-traditional village turban
-
-OUTFIT_OR_ARMOR:
-cotton shalwar kameez
-
-ACCESSORIES:
-wooden farming tools
-
-WEAPONS_OR_TOOLS:
-farming sickle
-
-TECH_LEVEL:
-traditional
-
-POSE:
-standing proudly
-
-ACTION:
-looking across his wheat fields
-
-EXPRESSION:
-gentle smile
-
-ENVIRONMENT:
-rural farmland
-
-TIME_OF_DAY:
-sunrise
-
-ATMOSPHERE:
-morning mist
-
-VISUAL_STYLE:
-cinematic realism
-
-COLOR_PALETTE:
-golden yellow, earthy brown, green
-
-LIGHTING:
-warm sunrise lighting
-
-COMPOSITION:
-rule of thirds
-
-CAMERA_ANGLE:
-eye level
-
-LENS_TYPE:
-50mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-National Geographic photography
-
-ASPECT_RATIO:
-16:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: National Geographic photography
+ASPECT_RATIO: 16:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Abdul Rahman, elderly wheat farmer standing proudly among endless golden wheat fields during sunrise, weathered face, kind brown eyes, traditional village turban, cotton shalwar kameez moving in the morning breeze, holding a farming sickle, warm sunlight illuminating the farmland, atmospheric morning mist, cinematic realism, National Geographic photography quality, ultra-detailed textures, realistic skin and fabric details, eye-level composition, 50mm lens, peaceful rural atmosphere
@@ -313,118 +219,61 @@ Abdul Rahman, elderly wheat farmer standing proudly among endless golden wheat f
 
 ---
 
-# Cyberpunk Assassin
-
-**Image file:**
+### 🌆 Cyberpunk Assassin
 
 ![Cyberpunk Assassin](assets/cyberpunk-assassin.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Nyx
-
 CHARACTER_TYPE: Cybernetic Assassin
-
 GENDER: Female
-
 AGE_RANGE: 25-30
-
 SPECIES_OR_RACE: Enhanced Human
-
 ROLE_OR_PROFESSION: Contract Killer
 
-PERSONALITY_TRAITS:
-cold, intelligent, efficient
+PERSONALITY_TRAITS: cold, intelligent, efficient
+ARCHETYPE: shadow operative
+BACKSTORY_THEME: survival in a corporate dystopia
+CURRENT_EMOTION: focused
 
-ARCHETYPE:
-shadow operative
+BODY_TYPE: athletic
+FACIAL_FEATURES: sharp cheekbones, cybernetic implants
+EYE_DETAILS: glowing blue cybernetic eyes
+HAIRSTYLE: short black undercut
+SURFACE_DETAILS: synthetic skin enhancements
+UNIQUE_FEATURES: neural implant patterns
 
-BACKSTORY_THEME:
-survival in a corporate dystopia
+OUTFIT_OR_ARMOR: black nano-fiber stealth suit
+ACCESSORIES: energy daggers
+WEAPONS_OR_TOOLS: plasma blade
+TECH_LEVEL: advanced futuristic
 
-CURRENT_EMOTION:
-focused
+POSE: standing on rooftop edge
+ACTION: scanning the city below
+EXPRESSION: emotionless determination
 
-BODY_TYPE:
-athletic
+ENVIRONMENT: cyberpunk megacity
+TIME_OF_DAY: midnight
+ATMOSPHERE: rain and neon fog
 
-FACIAL_FEATURES:
-sharp cheekbones, cybernetic implants
+VISUAL_STYLE: cyberpunk realism
+COLOR_PALETTE: neon blue, purple, black
+LIGHTING: neon city lighting
+COMPOSITION: hero composition
+CAMERA_ANGLE: low-angle shot
+LENS_TYPE: 85mm
 
-EYE_DETAILS:
-glowing blue cybernetic eyes
-
-HAIRSTYLE:
-short black undercut
-
-SURFACE_DETAILS:
-synthetic skin enhancements
-
-UNIQUE_FEATURES:
-neural implant patterns
-
-OUTFIT_OR_ARMOR:
-black nano-fiber stealth suit
-
-ACCESSORIES:
-energy daggers
-
-WEAPONS_OR_TOOLS:
-plasma blade
-
-TECH_LEVEL:
-advanced futuristic
-
-POSE:
-standing on rooftop edge
-
-ACTION:
-scanning the city below
-
-EXPRESSION:
-emotionless determination
-
-ENVIRONMENT:
-cyberpunk megacity
-
-TIME_OF_DAY:
-midnight
-
-ATMOSPHERE:
-rain and neon fog
-
-VISUAL_STYLE:
-cyberpunk realism
-
-COLOR_PALETTE:
-neon blue, purple, black
-
-LIGHTING:
-neon city lighting
-
-COMPOSITION:
-hero composition
-
-CAMERA_ANGLE:
-low-angle shot
-
-LENS_TYPE:
-85mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-AAA game concept art
-
-ASPECT_RATIO:
-16:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: AAA game concept art
+ASPECT_RATIO: 16:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Nyx, elite cybernetic assassin standing atop a skyscraper overlooking a neon megacity, black nano-fiber stealth suit with glowing cybernetic implants, blue cybernetic eyes reflecting city lights, energy daggers attached to her armor, heavy rain falling through neon fog, low-angle hero composition, cyberpunk realism, ultra-detailed armor textures, purple and blue lighting, AAA game concept art quality, cinematic atmosphere, 85mm lens
@@ -432,118 +281,61 @@ Nyx, elite cybernetic assassin standing atop a skyscraper overlooking a neon meg
 
 ---
 
-# Mars Explorer
-
-**Image file:**
+### 🪐 Mars Explorer
 
 ![Mars Explorer](assets/mars-explorer.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Commander Atlas
-
 CHARACTER_TYPE: Planetary Explorer
-
 GENDER: Male
-
 AGE_RANGE: 35-40
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: Scientist
 
-PERSONALITY_TRAITS:
-brave, curious, intelligent
+PERSONALITY_TRAITS: brave, curious, intelligent
+ARCHETYPE: explorer
+BACKSTORY_THEME: humanity's expansion into space
+CURRENT_EMOTION: determined
 
-ARCHETYPE:
-explorer
+BODY_TYPE: athletic
+FACIAL_FEATURES: strong jawline
+EYE_DETAILS: focused brown eyes
+HAIRSTYLE: hidden by helmet
+SURFACE_DETAILS: dust-covered EVA suit
+UNIQUE_FEATURES: mission commander insignia
 
-BACKSTORY_THEME:
-humanity's expansion into space
+OUTFIT_OR_ARMOR: advanced Mars exploration suit
+ACCESSORIES: holographic scanner
+WEAPONS_OR_TOOLS: scientific equipment
+TECH_LEVEL: near-future
 
-CURRENT_EMOTION:
-determined
+POSE: kneeling beside rock formation
+ACTION: collecting geological samples
+EXPRESSION: focused concentration
 
-BODY_TYPE:
-athletic
+ENVIRONMENT: Martian canyon
+TIME_OF_DAY: afternoon
+ATMOSPHERE: red dust storm
 
-FACIAL_FEATURES:
-strong jawline
+VISUAL_STYLE: NASA realism
+COLOR_PALETTE: red, orange, silver
+LIGHTING: harsh sunlight
+COMPOSITION: cinematic wide shot
+CAMERA_ANGLE: slight low angle
+LENS_TYPE: 24mm
 
-EYE_DETAILS:
-focused brown eyes
-
-HAIRSTYLE:
-hidden by helmet
-
-SURFACE_DETAILS:
-dust-covered EVA suit
-
-UNIQUE_FEATURES:
-mission commander insignia
-
-OUTFIT_OR_ARMOR:
-advanced Mars exploration suit
-
-ACCESSORIES:
-holographic scanner
-
-WEAPONS_OR_TOOLS:
-scientific equipment
-
-TECH_LEVEL:
-near-future
-
-POSE:
-kneeling beside rock formation
-
-ACTION:
-collecting geological samples
-
-EXPRESSION:
-focused concentration
-
-ENVIRONMENT:
-Martian canyon
-
-TIME_OF_DAY:
-afternoon
-
-ATMOSPHERE:
-red dust storm
-
-VISUAL_STYLE:
-NASA realism
-
-COLOR_PALETTE:
-red, orange, silver
-
-LIGHTING:
-harsh sunlight
-
-COMPOSITION:
-cinematic wide shot
-
-CAMERA_ANGLE:
-slight low angle
-
-LENS_TYPE:
-24mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-space documentary quality
-
-ASPECT_RATIO:
-21:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: space documentary quality
+ASPECT_RATIO: 21:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Commander Atlas exploring a vast Martian canyon during a red dust storm, advanced EVA exploration suit covered in Martian dust, holographic scanner projecting scientific data, collecting geological samples, dramatic planetary landscape stretching to the horizon, NASA-inspired realism, harsh sunlight, red-orange environment, ultra-detailed science fiction photography, cinematic scale, 24mm lens, realistic space exploration atmosphere
@@ -551,118 +343,61 @@ Commander Atlas exploring a vast Martian canyon during a red dust storm, advance
 
 ---
 
-# Moon Guardian
-
-**Image file:**
+### 🌙 Moon Guardian
 
 ![Moon Guardian](assets/moon-guardian.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Selene
-
 CHARACTER_TYPE: Lunar Guardian
-
 GENDER: Female
-
 AGE_RANGE: Timeless
-
 SPECIES_OR_RACE: Celestial Being
-
 ROLE_OR_PROFESSION: Temple Protector
 
-PERSONALITY_TRAITS:
-elegant, mysterious, powerful
+PERSONALITY_TRAITS: elegant, mysterious, powerful
+ARCHETYPE: guardian
+BACKSTORY_THEME: protector of forgotten civilizations
+CURRENT_EMOTION: calm vigilance
 
-ARCHETYPE:
-guardian
+BODY_TYPE: graceful
+FACIAL_FEATURES: ethereal beauty
+EYE_DETAILS: glowing silver eyes
+HAIRSTYLE: flowing white hair
+SURFACE_DETAILS: luminous skin
+UNIQUE_FEATURES: celestial markings
 
-BACKSTORY_THEME:
-protector of forgotten civilizations
+OUTFIT_OR_ARMOR: silver ceremonial armor
+ACCESSORIES: crystal staff
+WEAPONS_OR_TOOLS: lunar energy staff
+TECH_LEVEL: mystical
 
-CURRENT_EMOTION:
-calm vigilance
+POSE: floating above temple ruins
+ACTION: guarding sacred structures
+EXPRESSION: serene confidence
 
-BODY_TYPE:
-graceful
+ENVIRONMENT: ancient moon sanctuary
+TIME_OF_DAY: eternal lunar night
+ATMOSPHERE: cosmic mist
 
-FACIAL_FEATURES:
-ethereal beauty
+VISUAL_STYLE: epic fantasy realism
+COLOR_PALETTE: silver, white, blue
+LIGHTING: moonlight
+COMPOSITION: symmetrical composition
+CAMERA_ANGLE: upward dramatic shot
+LENS_TYPE: 35mm
 
-EYE_DETAILS:
-glowing silver eyes
-
-HAIRSTYLE:
-flowing white hair
-
-SURFACE_DETAILS:
-luminous skin
-
-UNIQUE_FEATURES:
-celestial markings
-
-OUTFIT_OR_ARMOR:
-silver ceremonial armor
-
-ACCESSORIES:
-crystal staff
-
-WEAPONS_OR_TOOLS:
-lunar energy staff
-
-TECH_LEVEL:
-mystical
-
-POSE:
-floating above temple ruins
-
-ACTION:
-guarding sacred structures
-
-EXPRESSION:
-serene confidence
-
-ENVIRONMENT:
-ancient moon sanctuary
-
-TIME_OF_DAY:
-eternal lunar night
-
-ATMOSPHERE:
-cosmic mist
-
-VISUAL_STYLE:
-epic fantasy realism
-
-COLOR_PALETTE:
-silver, white, blue
-
-LIGHTING:
-moonlight
-
-COMPOSITION:
-symmetrical composition
-
-CAMERA_ANGLE:
-upward dramatic shot
-
-LENS_TYPE:
-35mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-film concept art
-
-ASPECT_RATIO:
-16:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: film concept art
+ASPECT_RATIO: 16:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Selene, celestial lunar guardian floating above ancient moon temple ruins, silver ceremonial armor glowing beneath soft moonlight, crystal staff radiating cosmic energy, luminous skin and flowing white hair, cosmic mist surrounding sacred structures, epic fantasy realism, silver and blue palette, cinematic composition, ultra-detailed textures, mythological atmosphere, 35mm lens
@@ -670,236 +405,125 @@ Selene, celestial lunar guardian floating above ancient moon temple ruins, silve
 
 ---
 
-# Mud Arena Warrior
-
-**Image file:**
+### ⚔️ Mud Arena Warrior
 
 ![Mud Warrior](assets/mud-warrior.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Gorr
-
 CHARACTER_TYPE: Tribal Champion
-
 GENDER: Male
-
 AGE_RANGE: 28-35
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: Tribal Athlete
 
-PERSONALITY_TRAITS:
-determined, resilient, fearless
+PERSONALITY_TRAITS: determined, resilient, fearless
+ARCHETYPE: legendary warrior
+BACKSTORY_THEME: overcoming extreme challenges
+CURRENT_EMOTION: intense focus
 
-ARCHETYPE:
-legendary warrior
+BODY_TYPE: massively muscular
+FACIAL_FEATURES: weathered face, strong jawline, thick beard
+EYE_DETAILS: intense dark eyes
+HAIRSTYLE: long braided hair
+SURFACE_DETAILS: mud-covered skin, rugged features
+UNIQUE_FEATURES: traditional tribal markings
 
-BACKSTORY_THEME:
-overcoming extreme challenges
+OUTFIT_OR_ARMOR: animal-hide attire covered in mud
+ACCESSORIES: bone necklace
+WEAPONS_OR_TOOLS: ceremonial tribal staff
+TECH_LEVEL: primitive tribal
 
-CURRENT_EMOTION:
-intense focus
+POSE: running forward with confidence
+ACTION: moving powerfully across muddy terrain
+EXPRESSION: determined shout
 
-BODY_TYPE:
-massively muscular
+ENVIRONMENT: mud arena after heavy rain
+TIME_OF_DAY: stormy afternoon
+ATMOSPHERE: flying mud and rain
 
-FACIAL_FEATURES:
-weathered face, strong jawline, thick beard
+VISUAL_STYLE: raw cinematic realism
+COLOR_PALETTE: brown, dark gray, muted green
+LIGHTING: dramatic storm lighting
+COMPOSITION: dynamic action composition
+CAMERA_ANGLE: low-angle action shot
+LENS_TYPE: 28mm cinematic lens
 
-EYE_DETAILS:
-intense dark eyes
-
-HAIRSTYLE:
-long braided hair
-
-SURFACE_DETAILS:
-mud-covered skin, rugged features
-
-UNIQUE_FEATURES:
-traditional tribal markings
-
-OUTFIT_OR_ARMOR:
-animal-hide attire covered in mud
-
-ACCESSORIES:
-bone necklace
-
-WEAPONS_OR_TOOLS:
-ceremonial tribal staff
-
-TECH_LEVEL:
-primitive tribal
-
-POSE:
-running forward with confidence
-
-ACTION:
-moving powerfully across muddy terrain
-
-EXPRESSION:
-determined shout
-
-ENVIRONMENT:
-mud arena after heavy rain
-
-TIME_OF_DAY:
-stormy afternoon
-
-ATMOSPHERE:
-flying mud and rain
-
-VISUAL_STYLE:
-raw cinematic realism
-
-COLOR_PALETTE:
-brown, dark gray, muted green
-
-LIGHTING:
-dramatic storm lighting
-
-COMPOSITION:
-dynamic action composition
-
-CAMERA_ANGLE:
-low-angle action shot
-
-LENS_TYPE:
-28mm cinematic lens
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-AAA game concept art
-
-ASPECT_RATIO:
-16:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: AAA game concept art
+ASPECT_RATIO: 16:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Gorr, a massively muscular tribal gladiator arena fighter embodying aggression, resilience, and fearlessness. Scarred face, broken nose, thick beard, intense dark eyes, long braided hair, mud-covered skin marked with battle scars and tribal war paint. Wearing animal-hide armor covered in mud, bone necklace, wielding a massive stone axe. Charging forward through a muddy battlefield while swinging his weapon, ferocious battle scream, powerful action pose.
 
 Set inside a mud arena after heavy rain during a stormy afternoon, flying mud, heavy rainfall, thunderclouds overhead. Raw cinematic realism, dramatic storm lighting, brown and dark gray color palette, low-angle action composition emphasizing power and momentum. Ultra-detailed textures, realistic mud splashes, cinematic motion blur, AAA game concept art quality, 28mm cinematic lens, epic battlefield atmosphere.
 ```
-# Deep Sea Diver
 
-**Image file:**
+---
+
+### 🌊 Deep Sea Diver
 
 ![Deep Sea Diver](assets/deep-sea-diver.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Marina
-
 CHARACTER_TYPE: Deep Sea Explorer
-
 GENDER: Female
-
 AGE_RANGE: 30-40
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: Marine Biologist
 
-PERSONALITY_TRAITS:
-curious, fearless, intelligent
+PERSONALITY_TRAITS: curious, fearless, intelligent
+ARCHETYPE: explorer
+BACKSTORY_THEME: discovering unknown life beneath the ocean
+CURRENT_EMOTION: wonder
 
-ARCHETYPE:
-explorer
+BODY_TYPE: athletic
+FACIAL_FEATURES: sharp features, determined expression
+EYE_DETAILS: bright blue eyes
+HAIRSTYLE: hidden beneath diving helmet
+SURFACE_DETAILS: water droplets, reflective diving suit
+UNIQUE_FEATURES: custom deep-ocean research insignia
 
-BACKSTORY_THEME:
-discovering unknown life beneath the ocean
+OUTFIT_OR_ARMOR: advanced deep-sea exploration suit
+ACCESSORIES: underwater scanner
+WEAPONS_OR_TOOLS: research equipment
+TECH_LEVEL: advanced
 
-CURRENT_EMOTION:
-wonder
+POSE: swimming forward
+ACTION: exploring ancient underwater ruins
+EXPRESSION: awe and curiosity
 
-BODY_TYPE:
-athletic
+ENVIRONMENT: abyssal ocean trench
+TIME_OF_DAY: deep ocean darkness
+ATMOSPHERE: bioluminescent marine life
 
-FACIAL_FEATURES:
-sharp features, determined expression
+VISUAL_STYLE: underwater realism
+COLOR_PALETTE: deep blue, cyan, teal
+LIGHTING: bioluminescent glow
+COMPOSITION: cinematic underwater composition
+CAMERA_ANGLE: wide underwater shot
+LENS_TYPE: 35mm
 
-EYE_DETAILS:
-bright blue eyes
-
-HAIRSTYLE:
-hidden beneath diving helmet
-
-SURFACE_DETAILS:
-water droplets, reflective diving suit
-
-UNIQUE_FEATURES:
-custom deep-ocean research insignia
-
-OUTFIT_OR_ARMOR:
-advanced deep-sea exploration suit
-
-ACCESSORIES:
-underwater scanner
-
-WEAPONS_OR_TOOLS:
-research equipment
-
-TECH_LEVEL:
-advanced
-
-POSE:
-swimming forward
-
-ACTION:
-exploring ancient underwater ruins
-
-EXPRESSION:
-awe and curiosity
-
-ENVIRONMENT:
-abyssal ocean trench
-
-TIME_OF_DAY:
-deep ocean darkness
-
-ATMOSPHERE:
-bioluminescent marine life
-
-VISUAL_STYLE:
-underwater realism
-
-COLOR_PALETTE:
-deep blue, cyan, teal
-
-LIGHTING:
-bioluminescent glow
-
-COMPOSITION:
-cinematic underwater composition
-
-CAMERA_ANGLE:
-wide underwater shot
-
-LENS_TYPE:
-35mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-documentary photography
-
-ASPECT_RATIO:
-16:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: documentary photography
+ASPECT_RATIO: 16:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Marina, fearless deep-sea explorer swimming through an ancient submerged civilization deep within an abyssal trench, advanced diving suit illuminated by glowing bioluminescent marine life, underwater scanner actively mapping the ruins, mysterious ocean darkness surrounding colossal structures, cinematic underwater realism, volumetric light rays, ultra-detailed water effects, documentary-quality photography, 35mm lens, breathtaking deep-ocean atmosphere
@@ -907,118 +531,61 @@ Marina, fearless deep-sea explorer swimming through an ancient submerged civiliz
 
 ---
 
-# Arctic Survivalist
-
-**Image file:**
+### ❄️ Arctic Survivalist
 
 ![Arctic Survivalist](assets/arctic-survivalist.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Frost
-
 CHARACTER_TYPE: Arctic Survival Expert
-
 GENDER: Male
-
 AGE_RANGE: 40-50
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: Explorer
 
-PERSONALITY_TRAITS:
-disciplined, resilient, resourceful
+PERSONALITY_TRAITS: disciplined, resilient, resourceful
+ARCHETYPE: survivor
+BACKSTORY_THEME: enduring the harshest climates on Earth
+CURRENT_EMOTION: determination
 
-ARCHETYPE:
-survivor
+BODY_TYPE: rugged
+FACIAL_FEATURES: frost-covered beard, weathered face
+EYE_DETAILS: piercing blue eyes
+HAIRSTYLE: short gray hair
+SURFACE_DETAILS: frozen clothing, ice-covered gear
+UNIQUE_FEATURES: polar expedition insignia
 
-BACKSTORY_THEME:
-enduring the harshest climates on Earth
+OUTFIT_OR_ARMOR: heavy arctic survival gear
+ACCESSORIES: ice axe
+WEAPONS_OR_TOOLS: survival backpack
+TECH_LEVEL: modern
 
-CURRENT_EMOTION:
-determination
+POSE: walking against strong winds
+ACTION: crossing a frozen wasteland
+EXPRESSION: focused determination
 
-BODY_TYPE:
-rugged
+ENVIRONMENT: arctic tundra
+TIME_OF_DAY: early morning
+ATMOSPHERE: blizzard
 
-FACIAL_FEATURES:
-frost-covered beard, weathered face
+VISUAL_STYLE: survival realism
+COLOR_PALETTE: white, blue, gray
+LIGHTING: cold daylight
+COMPOSITION: wide environmental shot
+CAMERA_ANGLE: eye level
+LENS_TYPE: 50mm
 
-EYE_DETAILS:
-piercing blue eyes
-
-HAIRSTYLE:
-short gray hair
-
-SURFACE_DETAILS:
-frozen clothing, ice-covered gear
-
-UNIQUE_FEATURES:
-polar expedition insignia
-
-OUTFIT_OR_ARMOR:
-heavy arctic survival gear
-
-ACCESSORIES:
-ice axe
-
-WEAPONS_OR_TOOLS:
-survival backpack
-
-TECH_LEVEL:
-modern
-
-POSE:
-walking against strong winds
-
-ACTION:
-crossing a frozen wasteland
-
-EXPRESSION:
-focused determination
-
-ENVIRONMENT:
-arctic tundra
-
-TIME_OF_DAY:
-early morning
-
-ATMOSPHERE:
-blizzard
-
-VISUAL_STYLE:
-survival realism
-
-COLOR_PALETTE:
-white, blue, gray
-
-LIGHTING:
-cold daylight
-
-COMPOSITION:
-wide environmental shot
-
-CAMERA_ANGLE:
-eye level
-
-LENS_TYPE:
-50mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-National Geographic photography
-
-ASPECT_RATIO:
-21:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: National Geographic photography
+ASPECT_RATIO: 21:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Frost, hardened arctic explorer crossing a frozen wasteland during a violent blizzard, frost-covered beard, rugged survival equipment, ice axe firmly in hand, endless snow-covered landscape stretching into the horizon, survival realism, cold blue and white palette, dramatic environmental storytelling, National Geographic photography quality, ultra-detailed snow textures, 50mm lens
@@ -1026,118 +593,61 @@ Frost, hardened arctic explorer crossing a frozen wasteland during a violent bli
 
 ---
 
-# Jungle Hunter
-
-**Image file:**
+### 🌿 Jungle Hunter
 
 ![Jungle Hunter](assets/jungle-hunter.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Koda
-
 CHARACTER_TYPE: Jungle Tracker
-
 GENDER: Male
-
 AGE_RANGE: 25-35
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: Hunter
 
-PERSONALITY_TRAITS:
-observant, agile, instinctive
+PERSONALITY_TRAITS: observant, agile, instinctive
+ARCHETYPE: hunter
+BACKSTORY_THEME: master of rainforest survival
+CURRENT_EMOTION: focused
 
-ARCHETYPE:
-hunter
+BODY_TYPE: athletic
+FACIAL_FEATURES: sharp jawline, tribal markings
+EYE_DETAILS: dark observant eyes
+HAIRSTYLE: long tied-back hair
+SURFACE_DETAILS: camouflaged skin paint
+UNIQUE_FEATURES: handcrafted tribal accessories
 
-BACKSTORY_THEME:
-master of rainforest survival
+OUTFIT_OR_ARMOR: rainforest camouflage gear
+ACCESSORIES: quiver and arrows
+WEAPONS_OR_TOOLS: traditional hunting bow
+TECH_LEVEL: primitive
 
-CURRENT_EMOTION:
-focused
+POSE: crouched low
+ACTION: tracking prey through dense jungle
+EXPRESSION: intense concentration
 
-BODY_TYPE:
-athletic
+ENVIRONMENT: tropical rainforest
+TIME_OF_DAY: afternoon
+ATMOSPHERE: humid jungle mist
 
-FACIAL_FEATURES:
-sharp jawline, tribal markings
+VISUAL_STYLE: adventure realism
+COLOR_PALETTE: green, brown, dark yellow
+LIGHTING: sunlight through canopy
+COMPOSITION: natural framing
+CAMERA_ANGLE: eye level
+LENS_TYPE: 50mm
 
-EYE_DETAILS:
-dark observant eyes
-
-HAIRSTYLE:
-long tied-back hair
-
-SURFACE_DETAILS:
-camouflaged skin paint
-
-UNIQUE_FEATURES:
-handcrafted tribal accessories
-
-OUTFIT_OR_ARMOR:
-rainforest camouflage gear
-
-ACCESSORIES:
-quiver and arrows
-
-WEAPONS_OR_TOOLS:
-traditional hunting bow
-
-TECH_LEVEL:
-primitive
-
-POSE:
-crouched low
-
-ACTION:
-tracking prey through dense jungle
-
-EXPRESSION:
-intense concentration
-
-ENVIRONMENT:
-tropical rainforest
-
-TIME_OF_DAY:
-afternoon
-
-ATMOSPHERE:
-humid jungle mist
-
-VISUAL_STYLE:
-adventure realism
-
-COLOR_PALETTE:
-green, brown, dark yellow
-
-LIGHTING:
-sunlight through canopy
-
-COMPOSITION:
-natural framing
-
-CAMERA_ANGLE:
-eye level
-
-LENS_TYPE:
-50mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-wildlife documentary quality
-
-ASPECT_RATIO:
-16:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: wildlife documentary quality
+ASPECT_RATIO: 16:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Koda, elite rainforest hunter crouched within dense tropical vegetation, handcrafted bow drawn and ready, tribal markings blending into the environment, shafts of sunlight piercing through the jungle canopy, humid mist drifting between ancient trees, adventure realism, ultra-detailed foliage, wildlife documentary photography quality, natural framing, cinematic jungle atmosphere
@@ -1145,118 +655,61 @@ Koda, elite rainforest hunter crouched within dense tropical vegetation, handcra
 
 ---
 
-# Volcano Blacksmith
-
-**Image file:**
+### 🔥 Volcano Blacksmith
 
 ![Volcano Blacksmith](assets/volcano-blacksmith.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Vulcan
-
 CHARACTER_TYPE: Master Blacksmith
-
 GENDER: Male
-
 AGE_RANGE: 45-55
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: Forge Master
 
-PERSONALITY_TRAITS:
-powerful, disciplined, determined
+PERSONALITY_TRAITS: powerful, disciplined, determined
+ARCHETYPE: creator
+BACKSTORY_THEME: forging legendary weapons
+CURRENT_EMOTION: focused
 
-ARCHETYPE:
-creator
+BODY_TYPE: heavily muscular
+FACIAL_FEATURES: burn scars, thick beard
+EYE_DETAILS: glowing amber eyes
+HAIRSTYLE: long black hair
+SURFACE_DETAILS: ash-covered skin
+UNIQUE_FEATURES: ancient forge symbols
 
-BACKSTORY_THEME:
-forging legendary weapons
+OUTFIT_OR_ARMOR: heat-resistant leather armor
+ACCESSORIES: blacksmith apron
+WEAPONS_OR_TOOLS: massive forge hammer
+TECH_LEVEL: fantasy medieval
 
-CURRENT_EMOTION:
-focused
+POSE: standing beside anvil
+ACTION: forging molten steel
+EXPRESSION: intense focus
 
-BODY_TYPE:
-heavily muscular
+ENVIRONMENT: volcanic forge
+TIME_OF_DAY: night
+ATMOSPHERE: lava, sparks, smoke
 
-FACIAL_FEATURES:
-burn scars, thick beard
+VISUAL_STYLE: fantasy realism
+COLOR_PALETTE: orange, red, black
+LIGHTING: lava glow
+COMPOSITION: dramatic centered composition
+CAMERA_ANGLE: low-angle shot
+LENS_TYPE: 35mm
 
-EYE_DETAILS:
-glowing amber eyes
-
-HAIRSTYLE:
-long black hair
-
-SURFACE_DETAILS:
-ash-covered skin
-
-UNIQUE_FEATURES:
-ancient forge symbols
-
-OUTFIT_OR_ARMOR:
-heat-resistant leather armor
-
-ACCESSORIES:
-blacksmith apron
-
-WEAPONS_OR_TOOLS:
-massive forge hammer
-
-TECH_LEVEL:
-fantasy medieval
-
-POSE:
-standing beside anvil
-
-ACTION:
-forging molten steel
-
-EXPRESSION:
-intense focus
-
-ENVIRONMENT:
-volcanic forge
-
-TIME_OF_DAY:
-night
-
-ATMOSPHERE:
-lava, sparks, smoke
-
-VISUAL_STYLE:
-fantasy realism
-
-COLOR_PALETTE:
-orange, red, black
-
-LIGHTING:
-lava glow
-
-COMPOSITION:
-dramatic centered composition
-
-CAMERA_ANGLE:
-low-angle shot
-
-LENS_TYPE:
-35mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-film concept art
-
-ASPECT_RATIO:
-16:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: film concept art
+ASPECT_RATIO: 16:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Vulcan, legendary forge master hammering molten steel beside an active volcano, glowing lava illuminating his muscular frame, ash-covered skin, ancient forge symbols carved into armor, sparks erupting through the air, fantasy realism, dramatic orange and black palette, ultra-detailed fire effects, cinematic concept art quality, low-angle composition, 35mm lens
@@ -1264,234 +717,123 @@ Vulcan, legendary forge master hammering molten steel beside an active volcano, 
 
 ---
 
-# Space Station Engineer
-
-**Image file:**
+### 🛰️ Space Station Engineer
 
 ![Space Station Engineer](assets/space-engineer.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Orion
-
 CHARACTER_TYPE: Space Engineer
-
 GENDER: Male
-
 AGE_RANGE: 30-40
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: Orbital Systems Engineer
 
-PERSONALITY_TRAITS:
-intelligent, analytical, innovative
+PERSONALITY_TRAITS: intelligent, analytical, innovative
+ARCHETYPE: builder
+BACKSTORY_THEME: maintaining humanity's future in space
+CURRENT_EMOTION: focused
 
-ARCHETYPE:
-builder
+BODY_TYPE: fit
+FACIAL_FEATURES: clean-shaven, calm appearance
+EYE_DETAILS: focused gray eyes
+HAIRSTYLE: short dark hair
+SURFACE_DETAILS: high-tech engineering suit
+UNIQUE_FEATURES: orbital station insignia
 
-BACKSTORY_THEME:
-maintaining humanity's future in space
+OUTFIT_OR_ARMOR: advanced maintenance suit
+ACCESSORIES: holographic tablet
+WEAPONS_OR_TOOLS: repair toolkit
+TECH_LEVEL: futuristic
 
-CURRENT_EMOTION:
-focused
+POSE: standing near observation window
+ACTION: repairing station systems
+EXPRESSION: professional concentration
 
-BODY_TYPE:
-fit
+ENVIRONMENT: orbital space station
+TIME_OF_DAY: Earth orbit
+ATMOSPHERE: advanced technological environment
 
-FACIAL_FEATURES:
-clean-shaven, calm appearance
+VISUAL_STYLE: hard science-fiction realism
+COLOR_PALETTE: white, blue, silver
+LIGHTING: artificial station lighting
+COMPOSITION: cinematic engineering scene
+CAMERA_ANGLE: three-quarter view
+LENS_TYPE: 35mm
 
-EYE_DETAILS:
-focused gray eyes
-
-HAIRSTYLE:
-short dark hair
-
-SURFACE_DETAILS:
-high-tech engineering suit
-
-UNIQUE_FEATURES:
-orbital station insignia
-
-OUTFIT_OR_ARMOR:
-advanced maintenance suit
-
-ACCESSORIES:
-holographic tablet
-
-WEAPONS_OR_TOOLS:
-repair toolkit
-
-TECH_LEVEL:
-futuristic
-
-POSE:
-standing near observation window
-
-ACTION:
-repairing station systems
-
-EXPRESSION:
-professional concentration
-
-ENVIRONMENT:
-orbital space station
-
-TIME_OF_DAY:
-Earth orbit
-
-ATMOSPHERE:
-advanced technological environment
-
-VISUAL_STYLE:
-hard science-fiction realism
-
-COLOR_PALETTE:
-white, blue, silver
-
-LIGHTING:
-artificial station lighting
-
-COMPOSITION:
-cinematic engineering scene
-
-CAMERA_ANGLE:
-three-quarter view
-
-LENS_TYPE:
-35mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-AAA sci-fi concept art
-
-ASPECT_RATIO:
-21:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: AAA sci-fi concept art
+ASPECT_RATIO: 21:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Orion, orbital systems engineer performing critical maintenance aboard a massive space station, advanced engineering suit with holographic diagnostic displays, Earth visible through panoramic observation windows, futuristic repair equipment, hard science-fiction realism, ultra-detailed spacecraft interiors, cinematic lighting, AAA concept art quality, 35mm lens, realistic near-future space exploration atmosphere
 ```
-# Desert Nomad
 
-**Image file:**
+---
+
+### 🏜️ Desert Nomad
 
 ![Desert Nomad](assets/desert-nomad.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Zahra
-
 CHARACTER_TYPE: Desert Nomad
-
 GENDER: Female
-
 AGE_RANGE: 25-35
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: Caravan Guide
 
-PERSONALITY_TRAITS:
-independent, resilient, adaptable
+PERSONALITY_TRAITS: independent, resilient, adaptable
+ARCHETYPE: wanderer
+BACKSTORY_THEME: surviving and guiding travelers across endless deserts
+CURRENT_EMOTION: determined
 
-ARCHETYPE:
-wanderer
+BODY_TYPE: athletic
+FACIAL_FEATURES: sun-kissed skin, sharp features
+EYE_DETAILS: amber eyes
+HAIRSTYLE: long dark braided hair
+SURFACE_DETAILS: wind-blown clothing, desert dust
+UNIQUE_FEATURES: traditional desert tattoos
 
-BACKSTORY_THEME:
-surviving and guiding travelers across endless deserts
+OUTFIT_OR_ARMOR: flowing desert robes
+ACCESSORIES: leather satchel
+WEAPONS_OR_TOOLS: ornate curved dagger
+TECH_LEVEL: traditional
 
-CURRENT_EMOTION:
-determined
+POSE: walking across dunes
+ACTION: leading a caravan through the desert
+EXPRESSION: confident determination
 
-BODY_TYPE:
-athletic
+ENVIRONMENT: vast desert dunes
+TIME_OF_DAY: sunset
+ATMOSPHERE: blowing sand and heat haze
 
-FACIAL_FEATURES:
-sun-kissed skin, sharp features
+VISUAL_STYLE: cinematic adventure realism
+COLOR_PALETTE: gold, orange, beige
+LIGHTING: golden hour sunlight
+COMPOSITION: wide cinematic composition
+CAMERA_ANGLE: low-angle travel shot
+LENS_TYPE: 50mm
 
-EYE_DETAILS:
-amber eyes
-
-HAIRSTYLE:
-long dark braided hair
-
-SURFACE_DETAILS:
-wind-blown clothing, desert dust
-
-UNIQUE_FEATURES:
-traditional desert tattoos
-
-OUTFIT_OR_ARMOR:
-flowing desert robes
-
-ACCESSORIES:
-leather satchel
-
-WEAPONS_OR_TOOLS:
-ornate curved dagger
-
-TECH_LEVEL:
-traditional
-
-POSE:
-walking across dunes
-
-ACTION:
-leading a caravan through the desert
-
-EXPRESSION:
-confident determination
-
-ENVIRONMENT:
-vast desert dunes
-
-TIME_OF_DAY:
-sunset
-
-ATMOSPHERE:
-blowing sand and heat haze
-
-VISUAL_STYLE:
-cinematic adventure realism
-
-COLOR_PALETTE:
-gold, orange, beige
-
-LIGHTING:
-golden hour sunlight
-
-COMPOSITION:
-wide cinematic composition
-
-CAMERA_ANGLE:
-low-angle travel shot
-
-LENS_TYPE:
-50mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-epic adventure film quality
-
-ASPECT_RATIO:
-21:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: epic adventure film quality
+ASPECT_RATIO: 21:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Zahra, legendary desert nomad guiding a caravan through endless golden dunes during sunset, flowing desert robes moving with the wind, traditional tattoos visible beneath desert dust, ornate curved dagger at her side, blowing sand and shimmering heat haze, cinematic adventure realism, warm gold and orange palette, ultra-detailed desert textures, epic travel photography, 50mm lens, vast atmospheric landscape
@@ -1499,118 +841,61 @@ Zahra, legendary desert nomad guiding a caravan through endless golden dunes dur
 
 ---
 
-# Medieval King
-
-**Image file:**
+### 👑 Medieval King
 
 ![Medieval King](assets/medieval-king.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: King Aldric
-
 CHARACTER_TYPE: Medieval Monarch
-
 GENDER: Male
-
 AGE_RANGE: 45-55
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: King
 
-PERSONALITY_TRAITS:
-wise, commanding, honorable
+PERSONALITY_TRAITS: wise, commanding, honorable
+ARCHETYPE: ruler
+BACKSTORY_THEME: uniting rival kingdoms under one banner
+CURRENT_EMOTION: calm authority
 
-ARCHETYPE:
-ruler
+BODY_TYPE: broad and imposing
+FACIAL_FEATURES: strong jawline, royal beard
+EYE_DETAILS: deep blue eyes
+HAIRSTYLE: shoulder-length gray hair
+SURFACE_DETAILS: weathered skin, regal appearance
+UNIQUE_FEATURES: golden crown with gemstones
 
-BACKSTORY_THEME:
-uniting rival kingdoms under one banner
+OUTFIT_OR_ARMOR: ornate royal armor
+ACCESSORIES: royal cape
+WEAPONS_OR_TOOLS: ceremonial sword
+TECH_LEVEL: medieval
 
-CURRENT_EMOTION:
-calm authority
+POSE: seated upon a throne
+ACTION: addressing his kingdom
+EXPRESSION: confident wisdom
 
-BODY_TYPE:
-broad and imposing
+ENVIRONMENT: grand castle throne room
+TIME_OF_DAY: evening
+ATMOSPHERE: torch-lit royal hall
 
-FACIAL_FEATURES:
-strong jawline, royal beard
+VISUAL_STYLE: historical realism
+COLOR_PALETTE: gold, crimson, silver
+LIGHTING: warm torchlight
+COMPOSITION: centered royal composition
+CAMERA_ANGLE: slightly low-angle
+LENS_TYPE: 85mm
 
-EYE_DETAILS:
-deep blue eyes
-
-HAIRSTYLE:
-shoulder-length gray hair
-
-SURFACE_DETAILS:
-weathered skin, regal appearance
-
-UNIQUE_FEATURES:
-golden crown with gemstones
-
-OUTFIT_OR_ARMOR:
-ornate royal armor
-
-ACCESSORIES:
-royal cape
-
-WEAPONS_OR_TOOLS:
-ceremonial sword
-
-TECH_LEVEL:
-medieval
-
-POSE:
-seated upon a throne
-
-ACTION:
-addressing his kingdom
-
-EXPRESSION:
-confident wisdom
-
-ENVIRONMENT:
-grand castle throne room
-
-TIME_OF_DAY:
-evening
-
-ATMOSPHERE:
-torch-lit royal hall
-
-VISUAL_STYLE:
-historical realism
-
-COLOR_PALETTE:
-gold, crimson, silver
-
-LIGHTING:
-warm torchlight
-
-COMPOSITION:
-centered royal composition
-
-CAMERA_ANGLE:
-slightly low-angle
-
-LENS_TYPE:
-85mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-historical epic film quality
-
-ASPECT_RATIO:
-16:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: historical epic film quality
+ASPECT_RATIO: 16:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 King Aldric seated upon a magnificent throne inside a grand medieval castle hall, ornate royal armor reflecting warm torchlight, golden crown adorned with gemstones, crimson royal cape flowing across stone steps, ceremonial sword resting beside the throne, historical realism, ultra-detailed architecture, cinematic royal atmosphere, epic historical film quality, 85mm lens
@@ -1618,118 +903,61 @@ King Aldric seated upon a magnificent throne inside a grand medieval castle hall
 
 ---
 
-# Forest Ranger
-
-**Image file:**
+### 🌲 Forest Ranger
 
 ![Forest Ranger](assets/forest-ranger.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Elowen
-
 CHARACTER_TYPE: Forest Ranger
-
 GENDER: Female
-
 AGE_RANGE: 20-30
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: Woodland Protector
 
-PERSONALITY_TRAITS:
-compassionate, vigilant, brave
+PERSONALITY_TRAITS: compassionate, vigilant, brave
+ARCHETYPE: guardian
+BACKSTORY_THEME: protecting ancient forests from destruction
+CURRENT_EMOTION: peaceful alertness
 
-ARCHETYPE:
-guardian
+BODY_TYPE: athletic and agile
+FACIAL_FEATURES: soft features, freckles
+EYE_DETAILS: emerald green eyes
+HAIRSTYLE: long auburn hair
+SURFACE_DETAILS: leaf-patterned clothing
+UNIQUE_FEATURES: forest spirit pendant
 
-BACKSTORY_THEME:
-protecting ancient forests from destruction
+OUTFIT_OR_ARMOR: light ranger armor
+ACCESSORIES: leather quiver
+WEAPONS_OR_TOOLS: longbow
+TECH_LEVEL: fantasy medieval
 
-CURRENT_EMOTION:
-peaceful alertness
+POSE: standing among giant trees
+ACTION: watching over the forest
+EXPRESSION: calm confidence
 
-BODY_TYPE:
-athletic and agile
+ENVIRONMENT: ancient enchanted forest
+TIME_OF_DAY: early morning
+ATMOSPHERE: light mist and glowing particles
 
-FACIAL_FEATURES:
-soft features, freckles
+VISUAL_STYLE: fantasy realism
+COLOR_PALETTE: green, brown, gold
+LIGHTING: soft morning sunlight
+COMPOSITION: natural framing
+CAMERA_ANGLE: eye level
+LENS_TYPE: 50mm
 
-EYE_DETAILS:
-emerald green eyes
-
-HAIRSTYLE:
-long auburn hair
-
-SURFACE_DETAILS:
-leaf-patterned clothing
-
-UNIQUE_FEATURES:
-forest spirit pendant
-
-OUTFIT_OR_ARMOR:
-light ranger armor
-
-ACCESSORIES:
-leather quiver
-
-WEAPONS_OR_TOOLS:
-longbow
-
-TECH_LEVEL:
-fantasy medieval
-
-POSE:
-standing among giant trees
-
-ACTION:
-watching over the forest
-
-EXPRESSION:
-calm confidence
-
-ENVIRONMENT:
-ancient enchanted forest
-
-TIME_OF_DAY:
-early morning
-
-ATMOSPHERE:
-light mist and glowing particles
-
-VISUAL_STYLE:
-fantasy realism
-
-COLOR_PALETTE:
-green, brown, gold
-
-LIGHTING:
-soft morning sunlight
-
-COMPOSITION:
-natural framing
-
-CAMERA_ANGLE:
-eye level
-
-LENS_TYPE:
-50mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-fantasy concept art
-
-ASPECT_RATIO:
-16:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: fantasy concept art
+ASPECT_RATIO: 16:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Elowen, guardian ranger of an ancient enchanted forest, standing among towering trees covered in moss, emerald eyes watching over the woodland, longbow ready, forest spirit pendant glowing softly, golden morning sunlight filtering through mist and leaves, fantasy realism, lush green palette, ultra-detailed nature textures, cinematic fantasy concept art, 50mm lens
@@ -1737,118 +965,61 @@ Elowen, guardian ranger of an ancient enchanted forest, standing among towering 
 
 ---
 
-# Mech Pilot
-
-**Image file:**
+### 🤖 Mech Pilot
 
 ![Mech Pilot](assets/mech-pilot.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Titan-7
-
 CHARACTER_TYPE: Mech Pilot
-
 GENDER: Male
-
 AGE_RANGE: 30-40
-
 SPECIES_OR_RACE: Human
-
 ROLE_OR_PROFESSION: Combat Pilot
 
-PERSONALITY_TRAITS:
-fearless, tactical, disciplined
+PERSONALITY_TRAITS: fearless, tactical, disciplined
+ARCHETYPE: warrior
+BACKSTORY_THEME: defending humanity against mechanized threats
+CURRENT_EMOTION: battle ready
 
-ARCHETYPE:
-warrior
+BODY_TYPE: athletic
+FACIAL_FEATURES: battle scars, stern expression
+EYE_DETAILS: steel gray eyes
+HAIRSTYLE: short military haircut
+SURFACE_DETAILS: combat-worn armor
+UNIQUE_FEATURES: pilot neural interface
 
-BACKSTORY_THEME:
-defending humanity against mechanized threats
+OUTFIT_OR_ARMOR: advanced combat exosuit
+ACCESSORIES: tactical equipment
+WEAPONS_OR_TOOLS: plasma rifle
+TECH_LEVEL: futuristic
 
-CURRENT_EMOTION:
-battle ready
+POSE: standing before giant mech
+ACTION: preparing for deployment
+EXPRESSION: focused determination
 
-BODY_TYPE:
-athletic
+ENVIRONMENT: war-torn futuristic city
+TIME_OF_DAY: night
+ATMOSPHERE: smoke, sparks, battlefield debris
 
-FACIAL_FEATURES:
-battle scars, stern expression
+VISUAL_STYLE: AAA game concept art
+COLOR_PALETTE: blue, gray, orange
+LIGHTING: battlefield lighting
+COMPOSITION: heroic scale composition
+CAMERA_ANGLE: extreme low-angle
+LENS_TYPE: 24mm
 
-EYE_DETAILS:
-steel gray eyes
-
-HAIRSTYLE:
-short military haircut
-
-SURFACE_DETAILS:
-combat-worn armor
-
-UNIQUE_FEATURES:
-pilot neural interface
-
-OUTFIT_OR_ARMOR:
-advanced combat exosuit
-
-ACCESSORIES:
-tactical equipment
-
-WEAPONS_OR_TOOLS:
-plasma rifle
-
-TECH_LEVEL:
-futuristic
-
-POSE:
-standing before giant mech
-
-ACTION:
-preparing for deployment
-
-EXPRESSION:
-focused determination
-
-ENVIRONMENT:
-war-torn futuristic city
-
-TIME_OF_DAY:
-night
-
-ATMOSPHERE:
-smoke, sparks, battlefield debris
-
-VISUAL_STYLE:
-AAA game concept art
-
-COLOR_PALETTE:
-blue, gray, orange
-
-LIGHTING:
-battlefield lighting
-
-COMPOSITION:
-heroic scale composition
-
-CAMERA_ANGLE:
-extreme low-angle
-
-LENS_TYPE:
-24mm
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-AAA game cinematic
-
-ASPECT_RATIO:
-21:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: AAA game cinematic
+ASPECT_RATIO: 21:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Titan-7, elite mech pilot standing before a colossal combat mech in a war-torn futuristic city, advanced exosuit covered in battle damage, neural interface glowing beneath armored helmet, plasma rifle ready for combat, smoke and sparks filling the battlefield, AAA game concept art quality, ultra-detailed machinery, cinematic science fiction realism, epic scale, 24mm lens
@@ -1856,153 +1027,156 @@ Titan-7, elite mech pilot standing before a colossal combat mech in a war-torn f
 
 ---
 
-# Whiskers & Nibbles
-
-**Image file:**
+### 🐱 Whiskers & Nibbles
 
 ![Whiskers & Nibbles](assets/whiskers-and-nibbles.png)
 
-## Example Usage
-
-### Input
+<details>
+<summary><strong>▶ Input Parameters</strong></summary>
 
 ```text
 CHARACTER_NAME: Whiskers & Nibbles
-
 CHARACTER_TYPE: Cartoon Cat and Mouse Duo
-
 GENDER: Male Cat, Male Mouse
-
 AGE_RANGE: Timeless Cartoon Characters
-
 SPECIES_OR_RACE: Cat and Mouse
-
 ROLE_OR_PROFESSION: Mischievous Rivals
 
-PERSONALITY_TRAITS:
-playful, energetic, competitive
+PERSONALITY_TRAITS: playful, energetic, competitive
+ARCHETYPE: comic duo
+BACKSTORY_THEME: endless friendly rivalry
+CURRENT_EMOTION: excited
 
-ARCHETYPE:
-comic duo
+BODY_TYPE: stylized cartoon proportions
+FACIAL_FEATURES: large expressive eyes, exaggerated expressions
+EYE_DETAILS: bright animated eyes
+HAIRSTYLE: cartoon fur styling
+SURFACE_DETAILS: soft stylized fur
+UNIQUE_FEATURES: oversized cartoon expressions
 
-BACKSTORY_THEME:
-endless friendly rivalry
+OUTFIT_OR_ARMOR: none
+ACCESSORIES: oversized cheese wedge, wooden spoon
+WEAPONS_OR_TOOLS: household objects
+TECH_LEVEL: classic cartoon world
 
-CURRENT_EMOTION:
-excited
+POSE: mid-chase action pose
+ACTION: mouse sprinting while cat leaps behind
+EXPRESSION: surprised and playful
 
-BODY_TYPE:
-stylized cartoon proportions
+ENVIRONMENT: oversized colorful kitchen
+TIME_OF_DAY: daytime
+ATMOSPHERE: fun, energetic, family-friendly
 
-FACIAL_FEATURES:
-large expressive eyes, exaggerated expressions
+VISUAL_STYLE: high-end modern 3D animated feature film
+COLOR_PALETTE: warm yellows, bright blues, rich browns
+LIGHTING: soft cinematic lighting
+COMPOSITION: dynamic action composition
+CAMERA_ANGLE: low-angle action shot
+LENS_TYPE: 35mm animation camera
 
-EYE_DETAILS:
-bright animated eyes
-
-HAIRSTYLE:
-cartoon fur styling
-
-SURFACE_DETAILS:
-soft stylized fur
-
-UNIQUE_FEATURES:
-oversized cartoon expressions
-
-OUTFIT_OR_ARMOR:
-none
-
-ACCESSORIES:
-oversized cheese wedge, wooden spoon
-
-WEAPONS_OR_TOOLS:
-household objects
-
-TECH_LEVEL:
-classic cartoon world
-
-POSE:
-mid-chase action pose
-
-ACTION:
-mouse sprinting while cat leaps behind
-
-EXPRESSION:
-surprised and playful
-
-ENVIRONMENT:
-oversized colorful kitchen
-
-TIME_OF_DAY:
-daytime
-
-ATMOSPHERE:
-fun, energetic, family-friendly
-
-VISUAL_STYLE:
-high-end modern 3D animated feature film
-
-COLOR_PALETTE:
-warm yellows, bright blues, rich browns
-
-LIGHTING:
-soft cinematic lighting
-
-COMPOSITION:
-dynamic action composition
-
-CAMERA_ANGLE:
-low-angle action shot
-
-LENS_TYPE:
-35mm animation camera
-
-DETAIL_LEVEL:
-ultra detailed
-
-RENDER_QUALITY:
-feature film quality
-
-ASPECT_RATIO:
-16:9
+DETAIL_LEVEL: ultra detailed
+RENDER_QUALITY: feature film quality
+ASPECT_RATIO: 16:9
 ```
 
-### Output
+</details>
+
+**Generated Output:**
 
 ```text
 Whiskers and Nibbles, playful cartoon cat chasing a clever mouse through a colorful oversized kitchen, expressive eyes, exaggerated cartoon reactions, mouse sprinting while cat leaps behind, oversized cheese wedge and wooden spoon visible, vibrant family-friendly atmosphere, modern animated feature film quality, cinematic lighting, dynamic action composition, ultra-detailed 3D rendering, 35mm animation camera, polished feature-film visuals
 ```
 
-## Contribution Checklist
+---
+
+## 💡 Tips for Best Results
+
+| Tip | Why It Matters |
+|---|---|
+| Use original characters | Avoids copyright conflicts and keeps designs unique |
+| Define environment before visual style | Grounds the visual direction in a real context |
+| Use specific personality traits | Drives more expressive, story-rich outputs |
+| Include lighting and camera details | Greatly improves cinematic quality |
+| Keep color palettes focused | Prevents visual noise and improves cohesion |
+| Use realistic material descriptions | Leads to more tactile and believable renders |
+| Avoid contradictory styles | Prevents confused, mixed-quality output |
+| Add atmosphere for depth | Creates mood and narrative in the final image |
+
+---
+
+## 🎭 Style Variations
+
+This template supports a wide range of genres and character archetypes:
+
+- Fantasy Character Design
+- Science Fiction Character Design
+- Historical Character Design
+- Cartoon & Animated Character Design
+- Game Character Design
+- Creature & Monster Design
+- Superhero Design
+- Villain Design
+- Mascot Design
+
+---
+
+## 🖥️ Model Notes
+
+**Recommended Models:**
+
+| Model | Best For |
+|---|---|
+| Midjourney | Artistic quality, stylized renders |
+| Flux | Photorealism, detailed textures |
+| SDXL | Custom fine-tuned styles |
+| DALL·E | Versatile general use |
+| Ideogram | Typography-integrated designs |
+
+**Recommended Aspect Ratios:**
+
+| Ratio | Best Use |
+|---|---|
+| `16:9` | Cinematic scenes, game art |
+| `21:9` | Wide concept art, environmental shots |
+| `1:1` | Profile portraits, square social posts |
+
+---
+
+## ✅ Contribution Checklist
+
+Before submitting a new character example, verify the following:
 
 - [ ] Prompt is original and not based on copyrighted characters
 - [ ] Metadata is complete
-- [ ] At least one example input is included
-- [ ] Final output prompt is included
+- [ ] At least one full example input is included
+- [ ] Generated output prompt is included
 - [ ] Negative prompt is included
 - [ ] Image file is added in `/assets`
-- [ ] Image link works
-- [ ] Tested on at least one image model
+- [ ] Image link is working
+- [ ] Tested on at least one image generation model
 
-## Model Notes
+---
 
-Best for:
-- Midjourney
-- Flux
-- SDXL
-- DALL·E
-- Ideogram
+## 🏷️ Tags
 
-Recommended aspect ratios:
-- 16:9 for cinematic scenes
-- 21:9 for wide concept art
-- 1:1 for profile portraits
+`character-design` `image-generation` `concept-art` `fantasy` `sci-fi` `cinematic` `prompt-template` `midjourney` `flux` `sdxl`
 
-## Tags
+---
 
-character-design, image-generation, concept-art, fantasy, sci-fi, cinematic, prompt-template
+## ⚠️ Originality Notice
 
-## Originality Note
+All examples feature **original fictional characters**. Do not use copyrighted characters, real celebrities, trademarked universes, or direct style imitations of living artists.
 
-All examples are original fictional characters. Avoid using copyrighted characters, real celebrities, trademarked universes, or direct style imitation of living artists.
+---
 
+## 📄 License
+
+This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.
+
+---
+
+<div align="center">
+
+Made with ❤️ by [sharjeelx03](https://github.com/sharjeelx03)
+
+</div>
