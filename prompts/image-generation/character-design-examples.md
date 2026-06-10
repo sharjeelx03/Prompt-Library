@@ -356,15 +356,11 @@ Commander Atlas exploring a vast Martian canyon during a red dust storm, advance
 
 ---
 
-# Example 4 — Moon Guardian
+# Moon Guardian
 
 **Image file:**
 
-```text
-assets/moon-guardian.jpg
-```
-
-![Moon Guardian](assets/moon-guardian.jpg)
+![Moon Guardian](assets/moon-guardian.png)
 
 ## Example Usage
 
@@ -479,15 +475,11 @@ Selene, celestial lunar guardian floating above ancient moon temple ruins, silve
 
 ---
 
-# Example 5 — Mud Arena Warrior
+# Mud Arena Warrior
 
 **Image file:**
 
-```text
-assets/mud-warrior.jpg
-```
-
-![Mud Warrior](assets/mud-warrior.jpg)
+![Mud Warrior](assets/mud-warrior.png)
 
 ## Example Usage
 
