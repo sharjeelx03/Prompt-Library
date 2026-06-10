@@ -712,15 +712,11 @@ Marina, fearless deep-sea explorer swimming through an ancient submerged civiliz
 
 ---
 
-# Example 7 — Arctic Survivalist
+# Arctic Survivalist
 
 **Image file:**
 
-```text
-assets/arctic-survivalist.jpg
-```
-
-![Arctic Survivalist](assets/arctic-survivalist.jpg)
+![Arctic Survivalist](assets/arctic-survivalist.png)
 
 ## Example Usage
 
@@ -835,15 +831,11 @@ Frost, hardened arctic explorer crossing a frozen wasteland during a violent bli
 
 ---
 
-# Example 8 — Jungle Hunter
+# Jungle Hunter
 
 **Image file:**
 
-```text
-assets/jungle-hunter.jpg
-```
-
-![Jungle Hunter](assets/jungle-hunter.jpg)
+![Jungle Hunter](assets/jungle-hunter.png)
 
 ## Example Usage
 
