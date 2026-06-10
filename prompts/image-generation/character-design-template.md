@@ -130,7 +130,7 @@ A production-ready image generation prompt optimized for modern image models.
 
 View the complete gallery:
 
-➡️ **[Character Design Examples](./character-design-examples.md)**
+➡️ **[Character Design Examples](#village-farmer)**
 
 Included Examples:
 
