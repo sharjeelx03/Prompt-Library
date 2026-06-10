@@ -593,7 +593,7 @@ Gorr, a massively muscular tribal gladiator arena fighter embodying aggression, 
 
 Set inside a mud arena after heavy rain during a stormy afternoon, flying mud, heavy rainfall, thunderclouds overhead. Raw cinematic realism, dramatic storm lighting, brown and dark gray color palette, low-angle action composition emphasizing power and momentum. Ultra-detailed textures, realistic mud splashes, cinematic motion blur, AAA game concept art quality, 28mm cinematic lens, epic battlefield atmosphere.
 ```
-# Example 6 — Deep Sea Diver
+# Deep Sea Diver
 
 **Image file:**
 
