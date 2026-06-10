@@ -950,15 +950,11 @@ Koda, elite rainforest hunter crouched within dense tropical vegetation, handcra
 
 ---
 
-# Example 9 — Volcano Blacksmith
+# Volcano Blacksmith
 
 **Image file:**
 
-```text
-assets/volcano-blacksmith.jpg
-```
-
-![Volcano Blacksmith](assets/volcano-blacksmith.jpg)
+![Volcano Blacksmith](assets/volcano-blacksmith.png)
 
 ## Example Usage
 
@@ -1073,15 +1069,11 @@ Vulcan, legendary forge master hammering molten steel beside an active volcano, 
 
 ---
 
-# Example 10 — Space Station Engineer
+# Space Station Engineer
 
 **Image file:**
 
-```text
-assets/space-engineer.jpg
-```
-
-![Space Station Engineer](assets/space-engineer.jpg)
+![Space Station Engineer](assets/space-engineer.png)
 
 ## Example Usage
 
