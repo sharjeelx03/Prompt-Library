@@ -10,7 +10,8 @@
 | **Models Tested** | Midjourney, Flux, SDXL, DALL·E, Ideogram |
 | **Author** | [shareelx03](https://github.com/sharjeelx03) |
 
----
+![Forest Ranger](assets/forest-ranger.png)
+
 
 ## Description
 
