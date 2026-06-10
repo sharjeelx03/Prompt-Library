@@ -118,15 +118,11 @@ Abdul Rahman, elderly wheat farmer standing proudly among endless golden wheat f
 
 ---
 
-# Example 2 — Cyberpunk Assassin
+# Cyberpunk Assassin
 
 **Image file:**
 
-```text
-assets/cyberpunk-assassin.jpg
-```
-
-![Cyberpunk Assassin](assets/cyberpunk-assassin.jpg)
+![Cyberpunk Assassin](assets/cyberpunk-assassin.png)
 
 ## Example Usage
 
