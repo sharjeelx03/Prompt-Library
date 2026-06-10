@@ -488,7 +488,7 @@ Selene, celestial lunar guardian floating above ancient moon temple ruins, silve
 ```text
 CHARACTER_NAME: Gorr
 
-CHARACTER_TYPE: Tribal Gladiator
+CHARACTER_TYPE: Tribal Champion
 
 GENDER: Male
 
@@ -496,25 +496,25 @@ AGE_RANGE: 28-35
 
 SPECIES_OR_RACE: Human
 
-ROLE_OR_PROFESSION: Arena Fighter
+ROLE_OR_PROFESSION: Tribal Athlete
 
 PERSONALITY_TRAITS:
-aggressive, resilient, fearless
+determined, resilient, fearless
 
 ARCHETYPE:
-berserker warrior
+legendary warrior
 
 BACKSTORY_THEME:
-survival through endless combat
+overcoming extreme challenges
 
 CURRENT_EMOTION:
-battle rage
+intense focus
 
 BODY_TYPE:
 massively muscular
 
 FACIAL_FEATURES:
-scarred face, broken nose, thick beard
+weathered face, strong jawline, thick beard
 
 EYE_DETAILS:
 intense dark eyes
@@ -523,31 +523,31 @@ HAIRSTYLE:
 long braided hair
 
 SURFACE_DETAILS:
-mud-covered skin, battle scars
+mud-covered skin, rugged features
 
 UNIQUE_FEATURES:
-tribal war paint
+traditional tribal markings
 
 OUTFIT_OR_ARMOR:
-animal-hide armor covered in mud
+animal-hide attire covered in mud
 
 ACCESSORIES:
 bone necklace
 
 WEAPONS_OR_TOOLS:
-massive stone axe
+ceremonial tribal staff
 
 TECH_LEVEL:
 primitive tribal
 
 POSE:
-charging forward
+running forward with confidence
 
 ACTION:
-swinging a stone axe while running
+moving powerfully across muddy terrain
 
 EXPRESSION:
-ferocious battle scream
+determined shout
 
 ENVIRONMENT:
 mud arena after heavy rain
@@ -597,11 +597,7 @@ Set inside a mud arena after heavy rain during a stormy afternoon, flying mud, h
 
 **Image file:**
 
-```text
-assets/deep-sea-diver.jpg
-```
-
-![Deep Sea Diver](assets/deep-sea-diver.jpg)
+![Deep Sea Diver](assets/deep-sea-diver.png)
 
 ## Example Usage
 
