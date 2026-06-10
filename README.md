@@ -2,11 +2,11 @@
 
 <div align="center">
 
-### The Open-Source Library of Prompts, Workflows & Prompt Engineering Resources
+### The Open-Source Library of AI Prompts, Workflows & Prompt Engineering Resources
 
-Discover, learn, contribute, and master the art of prompting through a carefully curated collection of high-quality prompts, frameworks, workflows, and educational resources.
+Discover high-quality prompts, proven workflows, practical frameworks, and educational resources designed to help users achieve better results with AI.
 
-⭐ Star the repository if you find it useful.
+[Contribute](CONTRIBUTING.md) • [Roadmap](ROADMAP.md) • [License](LICENSE)
 
 </div>
 
@@ -14,83 +14,70 @@ Discover, learn, contribute, and master the art of prompting through a carefully
 
 ## About
 
-PromptLibrary is a community-driven open-source project dedicated to building the most comprehensive collection of high-quality prompts and prompt engineering resources.
+PromptLibrary is an open-source initiative dedicated to collecting, organizing, documenting, and improving high-quality prompts and workflows.
 
-The goal is not simply to collect prompts, but to document effective techniques, structured workflows, proven frameworks, and best practices that help people achieve better results with AI systems.
+The project aims to serve as a comprehensive knowledge base for prompt engineering by bringing together effective prompting techniques, reusable templates, structured workflows, educational content, and best practices in one place.
 
-Whether you are a student, researcher, developer, entrepreneur, creator, educator, or professional, PromptLibrary aims to provide valuable resources that improve productivity, creativity, learning, and problem-solving.
-
----
-
-## What You'll Find
-
-### Prompt Collections
-
-Organized prompts across multiple domains:
-
-- Programming & Software Development
-- Research & Academia
-- Writing & Content Creation
-- Education & Learning
-- Business & Marketing
-- Productivity
-- Design & Creativity
-- Robotics & Engineering
-- Data Analysis
-- Career Development
-- Image Generation
-- Video Generation
+Whether you are a student, researcher, developer, entrepreneur, creator, educator, or professional, PromptLibrary provides resources to help you work smarter and achieve more consistent results.
 
 ---
 
-### Workflows
+## Features
 
-Complete multi-step workflows designed for real-world outcomes.
+### Curated Prompt Collections
 
-Examples:
+Browse prompts organized by category and use case.
 
-- Research Paper Workflow
-- Content Creation Workflow
-- Startup Validation Workflow
-- Product Development Workflow
-- Learning Workflow
-- Personal Productivity Workflow
+* Programming & Development
+* Research & Academia
+* Writing & Content Creation
+* Education & Learning
+* Business & Marketing
+* Productivity
+* Robotics & Engineering
+* Data Analysis
+* Career Development
+* Image Generation
+* Video Generation
 
----
+### Workflow Library
 
-### Prompt Engineering
+Go beyond individual prompts with complete workflows designed for real-world tasks.
 
-Learn proven techniques including:
+Examples include:
 
-- Role Prompting
-- Structured Prompting
-- Task Decomposition
-- Context Management
-- Few-Shot Prompting
-- Output Formatting
-- Iterative Refinement
-- Evaluation Strategies
+* Research Paper Development
+* Content Creation Pipelines
+* Startup Planning
+* Product Development
+* Learning Systems
+* Productivity Frameworks
 
----
+### Prompt Engineering Resources
 
-### Resources
+Learn the principles behind effective prompting.
 
-A growing collection of:
+Topics include:
 
-- Guides
-- Frameworks
-- Tutorials
-- Case Studies
-- Best Practices
-- Benchmarks
-- Community Contributions
+* Role Prompting
+* Structured Prompting
+* Task Decomposition
+* Context Management
+* Output Formatting
+* Iterative Refinement
+* Evaluation Techniques
+* Best Practices
+
+### Community Driven
+
+PromptLibrary grows through community contributions, collaboration, and continuous improvement.
 
 ---
 
 ## Repository Structure
 
 ```text
-PromptLibrary/
+Prompt-Library/
 
 ├── prompts/
 │   ├── coding/
@@ -118,6 +105,9 @@ PromptLibrary/
 
 ├── docs/
 
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── ROADMAP.md
 └── README.md
 ```
 
@@ -125,41 +115,49 @@ PromptLibrary/
 
 ## Mission
 
-Our mission is to make effective prompting accessible to everyone by creating a structured, searchable, and community-driven knowledge base.
-
-We believe knowledge grows when it is shared openly.
-
----
-
-## Contributing
-
-Contributions are welcome.
-
-You can contribute by:
-
-- Adding prompts
-- Improving existing prompts
-- Sharing workflows
-- Writing guides
-- Reporting issues
-- Suggesting improvements
-
-Every contribution helps make PromptLibrary better for the entire community.
+Our mission is to make effective prompting accessible to everyone by creating a structured, searchable, and community-driven repository of prompts, workflows, and prompt engineering knowledge.
 
 ---
 
 ## Vision
 
-To become the world's most trusted open-source repository for prompts, workflows, and prompt engineering knowledge.
+To become the world's most trusted open-source resource for prompt engineering, helping people learn, share, and build better AI-powered solutions.
 
-A place where anyone can learn, contribute, and discover better ways to interact with AI.
+---
+
+## Contributing
+
+We welcome contributions from the community.
+
+You can help by:
+
+* Adding prompts
+* Improving existing prompts
+* Sharing workflows
+* Writing guides
+* Reporting issues
+* Suggesting improvements
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+
+---
+
+## Support The Project
+
+If you find this project useful:
+
+⭐ Star the repository
+
+🍴 Fork the repository
+
+🤝 Contribute to the community
+
+📢 Share it with others
 
 ---
 
 <div align="center">
 
-Built by the community, for the community.
-
-⭐ Star • Fork • Contribute
+Building the future of prompt engineering, one prompt at a time.
 
 </div>
