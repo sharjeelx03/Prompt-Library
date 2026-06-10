@@ -1185,15 +1185,11 @@ ASPECT_RATIO:
 ```text
 Orion, orbital systems engineer performing critical maintenance aboard a massive space station, advanced engineering suit with holographic diagnostic displays, Earth visible through panoramic observation windows, futuristic repair equipment, hard science-fiction realism, ultra-detailed spacecraft interiors, cinematic lighting, AAA concept art quality, 35mm lens, realistic near-future space exploration atmosphere
 ```
-# Example 11 — Desert Nomad
+# Desert Nomad
 
 **Image file:**
 
-```text
-assets/desert-nomad.jpg
-```
-
-![Desert Nomad](assets/desert-nomad.jpg)
+![Desert Nomad](assets/desert-nomad.png)
 
 ## Example Usage
 
@@ -1308,15 +1304,11 @@ Zahra, legendary desert nomad guiding a caravan through endless golden dunes dur
 
 ---
 
-# Example 12 — Medieval King
+# Medieval King
 
 **Image file:**
 
-```text
-assets/medieval-king.jpg
-```
-
-![Medieval King](assets/medieval-king.jpg)
+![Medieval King](assets/medieval-king.png)
 
 ## Example Usage
 
@@ -1431,15 +1423,11 @@ King Aldric seated upon a magnificent throne inside a grand medieval castle hall
 
 ---
 
-# Example 13 — Forest Ranger
+# Forest Ranger
 
 **Image file:**
 
-```text
-assets/forest-ranger.jpg
-```
-
-![Forest Ranger](assets/forest-ranger.jpg)
+![Forest Ranger](assets/forest-ranger.png)
 
 ## Example Usage
 
