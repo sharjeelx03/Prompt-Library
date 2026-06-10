@@ -1,5 +1,5 @@
 
-# Character Design Template
+# Character Design Template  Version v1.0.0
 
 ## Metadata
 
@@ -8,7 +8,7 @@
 | **Category** | Image Generation |
 | **Difficulty** | Advanced |
 | **Models Tested** | Midjourney, Flux, SDXL, DALL·E, Ideogram |
-| **Author** | @sharjeelx03 |
+| **Author** | [www.](https://github.com/sharjeelx03) |
 
 ---
 
@@ -1971,3 +1971,37 @@ ASPECT_RATIO:
 ```text
 Whiskers and Nibbles, playful cartoon cat chasing a clever mouse through a colorful oversized kitchen, expressive eyes, exaggerated cartoon reactions, mouse sprinting while cat leaps behind, oversized cheese wedge and wooden spoon visible, vibrant family-friendly atmosphere, modern animated feature film quality, cinematic lighting, dynamic action composition, ultra-detailed 3D rendering, 35mm animation camera, polished feature-film visuals
 ```
+
+## Contribution Checklist
+
+- [ ] Prompt is original and not based on copyrighted characters
+- [ ] Metadata is complete
+- [ ] At least one example input is included
+- [ ] Final output prompt is included
+- [ ] Negative prompt is included
+- [ ] Image file is added in `/assets`
+- [ ] Image link works
+- [ ] Tested on at least one image model
+
+## Model Notes
+
+Best for:
+- Midjourney
+- Flux
+- SDXL
+- DALL·E
+- Ideogram
+
+Recommended aspect ratios:
+- 16:9 for cinematic scenes
+- 21:9 for wide concept art
+- 1:1 for profile portraits
+
+## Tags
+
+character-design, image-generation, concept-art, fantasy, sci-fi, cinematic, prompt-template
+
+## Originality Note
+
+All examples are original fictional characters. Avoid using copyrighted characters, real celebrities, trademarked universes, or direct style imitation of living artists.
+
