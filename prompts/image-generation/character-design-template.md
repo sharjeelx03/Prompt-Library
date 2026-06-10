@@ -8,7 +8,7 @@
 | **Category** | Image Generation |
 | **Difficulty** | Advanced |
 | **Models Tested** | Midjourney, Flux, SDXL, DALL·E, Ideogram |
-| **Author** | [www.](https://github.com/sharjeelx03) |
+| **Author** | [shareelx03](https://github.com/sharjeelx03) |
 
 ---
 
