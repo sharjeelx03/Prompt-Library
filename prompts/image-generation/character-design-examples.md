@@ -1,13 +1,9 @@
 
-# Example 1 — Village Farmer
+# Village Farmer
 
 **Image file:**
 
-```text
-assets/village-farmer.jpg
-```
-
-![Village Farmer](assets/village-farmer.jpg)
+![Village Farmer](assets/village-farmer.png)
 
 ## Example Usage
 
