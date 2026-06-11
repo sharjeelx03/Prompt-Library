@@ -159,7 +159,7 @@ Prompt-Library/
 │
 ├── 📁 .github/
 │   └── 📁 workflows/
-│       └── 📄 auto-version.yml      ← Bumps version on every push
+│           
 │
 ├── 📁 prompts/
 │   ├── 🖥️  coding/
@@ -176,26 +176,9 @@ Prompt-Library/
 ├── 📁 resources/
 ├── 📁 benchmarks/
 ├── 📁 docs/
-├── 📄 VERSION                       ← Current: 1.0.0.1
+├── 📄 VERSION                       
 └── 📄 README.md
 ```
-
----
-
-## 🔢 Auto-Versioning
-
-Every push to `main` **automatically** increments the build number via GitHub Actions.
-
-```
-  1  .  0  .  0  .  1
-  ▲     ▲     ▲     ▲
-  │     │     │     └─── Build   → auto-bumped on every push ✅
-  │     │     └───────── Patch   → bug fixes & small updates
-  │     └─────────────── Minor   → new category or major feature
-  └───────────────────── Major   → complete library restructure
-```
-
-Edit the `VERSION` file to bump major · minor · patch manually.
 
 ---
 
