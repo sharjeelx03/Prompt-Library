@@ -1,112 +1,101 @@
 <div align="center">
 
-# 🎨 Character Design Template
+<img src="assets/templ.png" alt="Character Design Template" width="100%" />
 
-**Version 1.0.0** · Image Generation · Advanced
+<br/>
 
-*A structured framework for creating professional, original, and visually compelling character designs.*
+# Character Design Template
 
-![Character Design Template](assets/templ.png)
+**A structured, professional framework for generating original characters across all major AI image platforms.**
+
+<br/>
+
+[![Version](https://img.shields.io/badge/version-1.0.0-6c63ff?style=flat-square)](.)
+[![License](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)](.)
+[![Category](https://img.shields.io/badge/category-Image%20Generation-f59e0b?style=flat-square)](.)
+[![Level](https://img.shields.io/badge/level-Advanced-ef4444?style=flat-square)](.)
+
+<br/>
+
+[**Quick Start**](#-quick-start) · [**Prompt Template**](#-prompt-template) · [**Field Guide**](#-field-guide) · [**Best Practices**](#-best-practices) · [**Examples**](#-folder-structure)
 
 </div>
 
 ---
 
-# 📋 Overview
+## What This Is
 
-This template is designed for creating high-quality original characters for:
-
-* Midjourney
-* Flux
-* SDXL
-* GPT Image
-* Ideogram
-* Leonardo AI
-
-Suitable for:
-
-* Fantasy Characters
-* Sci-Fi Characters
-* Historical Characters
-* Game Characters
-* Original Heroes
-* Original Villains
-* Mascots
-* Creatures
+A battle-tested prompt framework for designing visually compelling, story-rich characters using AI image generators. Whether you're building a game asset pipeline, crafting a graphic novel, or prototyping concept art — this template gives you a consistent, professional starting point every time.
 
 ---
 
-# 🧩 Prompt Template
+## Supported Platforms
+
+| Platform | Best For |
+|---|---|
+| **Midjourney** | Painterly, artistic visuals |
+| **Flux** | Photorealistic rendering |
+| **GPT Image** | Consistent character generation |
+| **SDXL** | Fine-tuned custom workflows |
+| **Ideogram** | Typography integration |
+| **Leonardo AI** | Rapid concept iteration |
+
+---
+
+## Supported Character Types
+
+`Fantasy` · `Sci-Fi` · `Historical` · `Game Characters` · `Heroes` · `Villains` · `Mascots` · `Creatures`
+
+---
+
+## Quick Start
+
+Copy the template below, fill in every field, and paste it into your preferred image generator. The more detail you provide, the more consistent and expressive your output will be.
+
+---
+
+## Prompt Template
 
 ```text
 CHARACTER_NAME:
-
 CHARACTER_TYPE:
-
 GENDER:
-
 AGE_RANGE:
-
 SPECIES_OR_RACE:
-
 ROLE_OR_PROFESSION:
-
 PERSONALITY_TRAITS:
-
 ARCHETYPE:
-
 BACKSTORY_THEME:
-
 CURRENT_EMOTION:
 
 BODY_TYPE:
-
 FACIAL_FEATURES:
-
 EYE_DETAILS:
-
 HAIRSTYLE:
-
 SURFACE_DETAILS:
-
 UNIQUE_FEATURES:
 
 OUTFIT_OR_ARMOR:
-
 ACCESSORIES:
-
 WEAPONS_OR_TOOLS:
-
 TECH_LEVEL:
 
 POSE:
-
 ACTION:
-
 EXPRESSION:
 
 ENVIRONMENT:
-
 TIME_OF_DAY:
-
 ATMOSPHERE:
 
 VISUAL_STYLE:
-
 COLOR_PALETTE:
-
 LIGHTING:
-
 COMPOSITION:
-
 CAMERA_ANGLE:
-
 LENS_TYPE:
-
 DETAIL_LEVEL:
-
 RENDER_QUALITY:
-
 ASPECT_RATIO:
 
 OUTPUT:
@@ -114,118 +103,121 @@ OUTPUT:
 
 ---
 
-# 📝 Field Guide
+## Field Guide
 
-| Field              | Description                            |
-| ------------------ | -------------------------------------- |
-| CHARACTER_NAME     | Name of the character                  |
-| CHARACTER_TYPE     | Character category                     |
-| ROLE_OR_PROFESSION | Occupation or role                     |
-| PERSONALITY_TRAITS | Core behavioral traits                 |
-| ARCHETYPE          | Hero, mentor, guardian, explorer, etc. |
-| BACKSTORY_THEME    | Narrative direction                    |
-| OUTFIT_OR_ARMOR    | Clothing or armor                      |
-| ACCESSORIES        | Additional visual items                |
-| WEAPONS_OR_TOOLS   | Main equipment                         |
-| ENVIRONMENT        | Character location                     |
-| VISUAL_STYLE       | Overall art style                      |
-| COLOR_PALETTE      | Primary colors                         |
-| LIGHTING           | Lighting setup                         |
-| COMPOSITION        | Image composition                      |
-| CAMERA_ANGLE       | Camera perspective                     |
+### Identity
 
----
+| Field | Description |
+|---|---|
+| `CHARACTER_NAME` | The character's name |
+| `CHARACTER_TYPE` | Category: hero, villain, creature, etc. |
+| `GENDER` | Gender presentation |
+| `AGE_RANGE` | Approximate age: teen, adult, elder, ancient |
+| `SPECIES_OR_RACE` | Human, elf, android, hybrid, etc. |
+| `ROLE_OR_PROFESSION` | What they do — assassin, engineer, ruler |
+| `PERSONALITY_TRAITS` | 3–5 core behavioral traits |
+| `ARCHETYPE` | Hero, Mentor, Guardian, Explorer, Villain… |
+| `BACKSTORY_THEME` | The narrative driving their design |
+| `CURRENT_EMOTION` | Anger, grief, calm, determination, etc. |
 
-# 💡 Best Practices
+### Appearance
 
-## Character Design
+| Field | Description |
+|---|---|
+| `BODY_TYPE` | Build, height, posture |
+| `FACIAL_FEATURES` | Face shape, jaw, scars, markings |
+| `EYE_DETAILS` | Color, shape, glow, pupils |
+| `HAIRSTYLE` | Cut, color, texture, length |
+| `SURFACE_DETAILS` | Skin texture, scales, fur, metal plating |
+| `UNIQUE_FEATURES` | What makes them unmistakable at a glance |
 
-* Create original characters
-* Avoid copyrighted IP
-* Focus on strong silhouettes
-* Give characters a clear purpose
+### Equipment
 
-## Visual Quality
+| Field | Description |
+|---|---|
+| `OUTFIT_OR_ARMOR` | Clothing or armor style and material |
+| `ACCESSORIES` | Rings, cloaks, goggles, belts, etc. |
+| `WEAPONS_OR_TOOLS` | Primary equipment they carry |
+| `TECH_LEVEL` | Medieval, steampunk, futuristic, post-apocalyptic |
 
-* Define lighting clearly
-* Use realistic materials
-* Keep color palettes focused
-* Use cinematic composition
+### Scene
 
-## Storytelling
+| Field | Description |
+|---|---|
+| `POSE` | Standing, crouching, mid-attack, resting |
+| `ACTION` | What they're doing in the moment |
+| `EXPRESSION` | Smirking, stern, weeping, focused |
+| `ENVIRONMENT` | Where they are |
+| `TIME_OF_DAY` | Dawn, midday, dusk, deep night |
+| `ATMOSPHERE` | Foggy, stormy, ethereal, oppressive |
 
-* Include a backstory theme
-* Define emotion
-* Give meaningful equipment
-* Match environment to character
+### Visual Direction
 
----
-
-# 🎭 Recommended Archetypes
-
-* Hero
-* Guardian
-* Explorer
-* Warrior
-* Ranger
-* Assassin
-* Inventor
-* Scientist
-* Nomad
-* Monarch
-* Survivor
-* Hunter
-* Mentor
-* Villain
-* Anti-Hero
+| Field | Description |
+|---|---|
+| `VISUAL_STYLE` | Hyperrealistic, painterly, cel-shaded, anime |
+| `COLOR_PALETTE` | Primary and accent colors with hex if possible |
+| `LIGHTING` | Rim light, volumetric, three-point, dramatic |
+| `COMPOSITION` | Rule of thirds, centered, dynamic angle |
+| `CAMERA_ANGLE` | Eye-level, low angle, bird's eye, Dutch tilt |
+| `LENS_TYPE` | 35mm, 85mm portrait, fisheye, macro |
+| `DETAIL_LEVEL` | Sketch, refined, ultra-detailed |
+| `RENDER_QUALITY` | Draft, production, cinematic |
+| `ASPECT_RATIO` | See table below |
 
 ---
 
-# 🖥️ Recommended Models
+## Aspect Ratios
 
-| Model       | Strength                        |
-| ----------- | ------------------------------- |
-| Midjourney  | Artistic visuals                |
-| Flux        | Realistic rendering             |
-| GPT Image   | Consistent character generation |
-| SDXL        | Fine-tuned workflows            |
-| Ideogram    | Typography support              |
-| Leonardo AI | Fast concept creation           |
-
----
-
-# 📐 Recommended Aspect Ratios
-
-| Ratio | Usage             |
-| ----- | ----------------- |
-| 1:1   | Portraits         |
-| 4:5   | Social media      |
-| 16:9  | Cinematic scenes  |
-| 21:9  | Concept art       |
-| 9:16  | Mobile wallpapers |
+| Ratio | Best Use |
+|---|---|
+| `1:1` | Portraits, avatars |
+| `4:5` | Social media posts |
+| `16:9` | Cinematic scenes, wallpapers |
+| `21:9` | Ultrawide concept art |
+| `9:16` | Mobile wallpapers, story cards |
 
 ---
 
-# ✅ Contribution Checklist
+## Archetypes Reference
 
-Before submitting:
+> Choose one — or combine two for complex anti-heroes and morally ambiguous characters.
 
-* [ ] Character is original
-* [ ] All fields completed
-* [ ] Generated output included
-* [ ] Example image added
-* [ ] Image stored in assets folder
-* [ ] Prompt tested
-* [ ] Markdown formatted correctly
+`Hero` · `Guardian` · `Explorer` · `Warrior` · `Ranger` · `Assassin` · `Inventor` · `Scientist` · `Nomad` · `Monarch` · `Survivor` · `Hunter` · `Mentor` · `Villain` · `Anti-Hero`
 
 ---
 
-# 📁 Folder Structure
+## Best Practices
 
-```text
+### Build a Strong Character First
+
+- Give every character a **clear purpose** — what role do they serve in the story or world?
+- Prioritize **strong silhouettes** — the design should read instantly in thumbnail form
+- Avoid copyrighted IP — all characters must be wholly original
+- Tie the backstory to the visual — scars, worn gear, and markings should tell a story
+
+### Direct the Image Like a Cinematographer
+
+- **Define lighting explicitly** — vague lighting produces flat results
+- **Lock your color palette** to 3–5 colors max for visual cohesion
+- Use **cinematic composition references** (rule of thirds, leading lines, negative space)
+- Specify **materials and textures** — brushed steel, cracked leather, glowing runes
+
+### Write With Intent
+
+- Set `CURRENT_EMOTION` to match the scene — it shapes posture, expression, and lighting
+- Match `ENVIRONMENT` to the character's world and personality
+- Use `ATMOSPHERE` to reinforce tone — don't just describe a location, describe what it feels like
+
+---
+
+## Folder Structure
+
+```
 character-design/
 │
-├── 00-TEMPLATE.md
+├── 00-TEMPLATE.md              ← This file
+│
 ├── 01-cyberpunk-assassin.md
 ├── 02-lunar-guardian.md
 ├── 03-village-farmer.md
@@ -243,19 +235,40 @@ character-design/
 ├── 15-bounty-hunter.md
 │
 └── assets/
-    └── templ.png
+    ├── templ.png
+    └── cha.png
 ```
+
+Each numbered file follows the same template structure. Browse them for real, tested prompt examples.
 
 ---
 
-# 📄 License
+## Contribution Checklist
 
-MIT License
+Before submitting a new character:
 
-Free to use, modify, and distribute with attribution.
+- [ ] Character is fully original — no copyrighted IP
+- [ ] All fields in the template are completed
+- [ ] Generated output image is included
+- [ ] Image is stored in the `assets/` folder
+- [ ] Prompt has been tested and output verified
+- [ ] Filename follows `##-character-name.md` convention
+- [ ] Markdown renders correctly on GitHub
+
+---
+
+## License
+
+**MIT** — Free to use, modify, and distribute with attribution.
+
+---
 
 <div align="center">
 
-![Character Design Template](assets/cha.png)
+<img src="assets/cha.png" alt="Character Design Example" width="80%" />
+
+<br/><br/>
+
+*Built for creators who take visual storytelling seriously.*
 
 </div>
