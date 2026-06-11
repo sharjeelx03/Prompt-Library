@@ -1,15 +1,30 @@
-# 🧠 PromptLibrary — The Ultimate AI Prompt Engineering Resource
+<div align="center">
 
-> The largest open-source collection of high-quality prompts, workflows, and prompt engineering guides for ChatGPT, Claude, Gemini, GPT-4, LLaMA, and all major LLMs.
+# 🧠 PromptLibrary
 
-<!-- VERSION_BADGE_START -->
-![Version](https://img.shields.io/badge/version-1.0.0.1-blue?style=flat-square&logo=github)
-<!-- VERSION_BADGE_END -->
-![Last Updated](https://img.shields.io/github/last-commit/sharjeelx03/Prompt-Library?label=last%20updated&style=flat-square&color=green)
+### The Ultimate AI Prompt Engineering Resource
+
+<br>
+
+<!-- VERSION DISPLAY -->
+## 📦 Version 1.0.0.1
+
+<br>
+
+![Version](https://img.shields.io/badge/🔖%20Current%20Version-1.0.0.1-1a1aff?style=for-the-badge)
+![Last Updated](https://img.shields.io/github/last-commit/sharjeelx03/Prompt-Library?label=🕒%20Last%20Updated&style=for-the-badge&color=22c55e)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sharjeelx03.Prompt-Library&left_text=👁️%20Total%20Visitors&style=for-the-badge&left_color=6d28d9&right_color=a855f7)
+
+<br>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![Stars](https://img.shields.io/github/stars/sharjeelx03/Prompt-Library?style=social)](https://github.com/sharjeelx03/Prompt-Library/stargazers)
 [![Forks](https://img.shields.io/github/forks/sharjeelx03/Prompt-Library?style=social)](https://github.com/sharjeelx03/Prompt-Library/network/members)
+
+> The largest open-source collection of high-quality prompts, workflows, and prompt engineering guides for ChatGPT, Claude, Gemini, GPT-4, LLaMA, and all major LLMs.
+
+</div>
 
 ---
 
@@ -39,8 +54,6 @@ Whether you're a developer, researcher, student, marketer, or entrepreneur — t
 
 ### 💬 Prompt Collections
 
-Carefully curated prompts organized by domain:
-
 | Category | Description |
 |---|---|
 | `prompts/coding/` | Debugging, code review, architecture, refactoring |
@@ -57,8 +70,6 @@ Carefully curated prompts organized by domain:
 
 ### ⚙️ Workflows
 
-Multi-step AI workflows for real-world outcomes:
-
 - **Research Paper Workflow** — from topic to full draft using AI
 - **Startup Validation Workflow** — idea → market research → pitch
 - **Content Creation Workflow** — brief → outline → draft → publish-ready
@@ -67,8 +78,6 @@ Multi-step AI workflows for real-world outcomes:
 ---
 
 ### 🎓 Prompt Engineering Guides
-
-Learn the techniques used by AI engineers and researchers:
 
 - **Zero-Shot & Few-Shot Prompting**
 - **Chain-of-Thought (CoT) Reasoning**
@@ -88,16 +97,14 @@ Side-by-side prompt performance comparisons across:
 - ChatGPT (GPT-4o, GPT-4)
 - Claude (Sonnet, Opus)
 - Gemini (Pro, Ultra)
-- DeepSeek
-- Grok
-- Mistral / LLaMA
+- DeepSeek · Grok · Mistral / LLaMA
 
 ---
 
 ## 🗂️ Repository Structure
 
 ```
-PromptLibrary/
+Prompt-Library/
 │
 ├── .github/
 │   └── workflows/
@@ -115,19 +122,10 @@ PromptLibrary/
 │   └── video-generation/
 │
 ├── workflows/
-│   ├── research-paper/
-│   ├── startup/
-│   ├── content-creation/
-│   └── learning/
-│
 ├── resources/
-│   ├── guides/
-│   ├── frameworks/
-│   └── tutorials/
-│
 ├── benchmarks/
 ├── docs/
-├── VERSION                        ← Tracks current version number
+├── VERSION                        ← Current version number
 └── README.md
 ```
 
@@ -135,38 +133,14 @@ PromptLibrary/
 
 ## 🔢 Versioning
 
-This repository uses **automatic patch versioning** powered by GitHub Actions.
+Every push to `main` auto-increments the build number via GitHub Actions.
 
-| Format | Meaning |
-|---|---|
-| `1.0.0.1` | Major . Minor . Patch . Build |
-| **Major** | Breaking restructure of the entire library |
-| **Minor** | New category or large feature added |
-| **Patch** | New prompts, fixes, or improvements |
-| **Build** | Auto-incremented on every push ✅ |
-
-Every time you push a commit, the **build number** increments automatically and the README badge updates — no manual version management needed.
-
-To bump **major**, **minor**, or **patch** manually, edit the `VERSION` file:
-```
-1.0.0.1
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome from everyone — beginners to experts.
-
-**You can contribute by:**
-- Adding new prompts in any category
-- Improving or optimizing existing prompts
-- Sharing multi-step workflows
-- Writing prompt engineering guides
-- Benchmarking prompts across models
-- Reporting issues or suggesting improvements
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
+| Digit | Role | Changes When |
+|---|---|---|
+| **1** — Major | Breaking restructure | Manually |
+| **0** — Minor | New category added | Manually |
+| **0** — Patch | Bug fixes / improvements | Manually |
+| **1** — Build | Auto-incremented ✅ | Every push |
 
 ---
 
@@ -193,20 +167,37 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 
 ---
 
+## 🤝 Contributing
+
+**You can contribute by:**
+- Adding new prompts in any category
+- Improving or optimizing existing prompts
+- Sharing multi-step workflows
+- Writing prompt engineering guides
+- Benchmarking prompts across models
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
+
+---
+
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE) — free to use, share, and build upon.
+Licensed under the [MIT License](LICENSE) — free to use, share, and build upon.
 
 ---
 
 ## ⭐ Support the Project
 
-If PromptLibrary has helped you, please:
+If PromptLibrary has helped you:
 - ⭐ **Star** this repository
 - 🍴 **Fork** it and contribute
 - 📢 **Share** it with your network
 
 ---
 
+<div align="center">
+
 *Built by the community, for the community.*  
 *Maintained by [@sharjeelx03](https://github.com/sharjeelx03)*
+
+</div>
