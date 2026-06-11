@@ -1,6 +1,6 @@
 # 🪐 Planetary Explorer
 
-![Planetary Explorer](assets/planetary-explorer.png)
+![Planetary Explorer](assets/mars-explorer.png)
 
 ## Overview
 
