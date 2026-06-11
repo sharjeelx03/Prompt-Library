@@ -2,8 +2,12 @@
 
 > The largest open-source collection of high-quality prompts, workflows, and prompt engineering guides for ChatGPT, Claude, Gemini, GPT-4, LLaMA, and all major LLMs.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+<!-- VERSION_BADGE_START -->
+![Version](https://img.shields.io/badge/version-1.0.0.1-blue?style=flat-square&logo=github)
+<!-- VERSION_BADGE_END -->
+![Last Updated](https://img.shields.io/github/last-commit/sharjeelx03/Prompt-Library?label=last%20updated&style=flat-square&color=green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![Stars](https://img.shields.io/github/stars/sharjeelx03/Prompt-Library?style=social)](https://github.com/sharjeelx03/Prompt-Library/stargazers)
 [![Forks](https://img.shields.io/github/forks/sharjeelx03/Prompt-Library?style=social)](https://github.com/sharjeelx03/Prompt-Library/network/members)
 
@@ -27,6 +31,7 @@ Whether you're a developer, researcher, student, marketer, or entrepreneur — t
 - ✅ **Community-driven** — built by AI practitioners, for everyone
 - ✅ **Prompt Engineering Guides** — not just prompts, but the science behind them
 - ✅ **Real Workflows** — end-to-end multi-step workflows for complex tasks
+- ✅ **Auto-versioned** — every update bumps the version automatically via GitHub Actions
 
 ---
 
@@ -94,6 +99,10 @@ Side-by-side prompt performance comparisons across:
 ```
 PromptLibrary/
 │
+├── .github/
+│   └── workflows/
+│       └── auto-version.yml       ← Auto-bumps version on every push
+│
 ├── prompts/
 │   ├── coding/
 │   ├── research/
@@ -118,7 +127,29 @@ PromptLibrary/
 │
 ├── benchmarks/
 ├── docs/
+├── VERSION                        ← Tracks current version number
 └── README.md
+```
+
+---
+
+## 🔢 Versioning
+
+This repository uses **automatic patch versioning** powered by GitHub Actions.
+
+| Format | Meaning |
+|---|---|
+| `1.0.0.1` | Major . Minor . Patch . Build |
+| **Major** | Breaking restructure of the entire library |
+| **Minor** | New category or large feature added |
+| **Patch** | New prompts, fixes, or improvements |
+| **Build** | Auto-incremented on every push ✅ |
+
+Every time you push a commit, the **build number** increments automatically and the README badge updates — no manual version management needed.
+
+To bump **major**, **minor**, or **patch** manually, edit the `VERSION` file:
+```
+1.0.0.1
 ```
 
 ---
