@@ -1,126 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=PromptLibrary&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Open-Source%20Prompt%20Engineering%20Library&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:7c3aed&height=160&section=header&text=PromptLibrary&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Open-source%20AI%20prompt%20engineering%20resource&descAlignY=68&descSize=15&descColor=cccccc" width="100%"/>
 
-# 🧠 PromptLibrary
+<br/>
 
-### High-Quality Prompts • Workflows • Frameworks • Guides
+<img src="https://img.shields.io/badge/VERSION-1.0.0.1-7c3aed?style=for-the-badge&labelColor=0f0f0f" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/github/last-commit/sharjeelx03/Prompt-Library?label=UPDATED&style=for-the-badge&labelColor=0f0f0f&color=10b981" height="32"/>
+&nbsp;
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sharjeelx03.Prompt-Library&left_text=VISITORS&style=for-the-badge&left_color=0f0f0f&right_color=e11d48" height="32"/>
 
-<p>
-<a href="https://github.com/sharjeelx03/Prompt-Library/stargazers">
-<img src="https://img.shields.io/github/stars/sharjeelx03/Prompt-Library?style=for-the-badge&color=f59e0b"/>
-</a>
+<br/><br/>
 
-<a href="https://github.com/sharjeelx03/Prompt-Library/network/members">
-<img src="https://img.shields.io/github/forks/sharjeelx03/Prompt-Library?style=for-the-badge&color=3b82f6"/>
-</a>
+<img src="https://img.shields.io/github/stars/sharjeelx03/Prompt-Library?style=flat-square&labelColor=0f0f0f&color=f59e0b&label=stars"/>
+&nbsp;
+<img src="https://img.shields.io/github/forks/sharjeelx03/Prompt-Library?style=flat-square&labelColor=0f0f0f&color=3b82f6&label=forks"/>
+&nbsp;
+<img src="https://img.shields.io/badge/license-MIT-gray?style=flat-square&labelColor=0f0f0f"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square&labelColor=0f0f0f"/>
 
-<img src="https://img.shields.io/github/last-commit/sharjeelx03/Prompt-Library?style=for-the-badge&color=22c55e"/>
+<br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sharjeelx03.Prompt-Library&style=for-the-badge"/>
-</p>
-
-<p>
-<a href="./prompts">Browse Prompts</a>
-•
-<a href="./workflows">Workflows</a>
-•
-<a href="./resources">Resources</a>
-•
-<a href="./CONTRIBUTING.md">Contribute</a>
-</p>
-
-> A community-driven collection of production-ready prompts, prompt frameworks, AI workflows, guides, and examples.
+[Browse Prompts](./prompts/) · [Contribute](CONTRIBUTING.md) · [Roadmap](#roadmap)
 
 </div>
 
 ---
 
-## 🚀 What You'll Find
+## What is this?
 
-### 🎨 Image Generation
+A free, open-source library of battle-tested prompts, workflows, and engineering guides — tested across **ChatGPT, Claude, Gemini, GPT-4, Mistral, and LLaMA**.
 
-Character Design, Concept Art, Product Photography, Environment Design, Branding, UI Concepts
-
-### 🎬 Video Generation
-
-Storyboards, Cinematics, Short Films, Advertisements, Social Media Content
-
-### 💻 Coding
-
-Debugging, Refactoring, Architecture Reviews, Documentation, System Design
-
-### 🔬 Research
-
-Literature Reviews, Analysis, Summarization, Study Workflows
-
-### 💼 Business
-
-Marketing, Sales, Strategy, Pitch Decks, Validation
-
-### 📚 Learning Resources
-
-Prompt Engineering Guides, Frameworks, Tutorials, Benchmarks
+No fluff. Just prompts that work.
 
 ---
 
-## 📂 Repository Structure
+## Prompt Categories
 
-```text
-Prompt-Library/
-├── prompts/
-├── workflows/
-├── resources/
-├── benchmarks/
-├── docs/
-└── README.md
+| Category | Contents |
+|---|---|
+| `prompts/coding/` | Debugging · code review · architecture · refactoring |
+| `prompts/writing/` | Blog posts · essays · copywriting · storytelling |
+| `prompts/research/` | Literature review · summarization · analysis |
+| `prompts/business/` | Strategy · marketing · sales · pitch decks |
+| `prompts/education/` | Lesson plans · study guides · Socratic tutoring |
+| `prompts/productivity/` | Task planning · decisions · time management |
+| `prompts/image-generation/` | Midjourney · DALL·E · Stable Diffusion · Flux |
+| `prompts/video-generation/` | Sora · Runway · Kling |
+| `prompts/robotics/` | ROS · motion planning · sensor fusion |
+
+---
+
+## Prompt Engineering Guides
+
+- Zero-Shot & Few-Shot Prompting
+- Chain-of-Thought (CoT) Reasoning
+- Role Prompting & Persona Design
+- Structured Output — JSON, XML, Markdown
+- Task Decomposition & Subtasking
+- Context Window Management
+- Iterative Prompt Refinement
+- Retrieval-Augmented Generation (RAG)
+- Agentic Prompt Patterns
+
+---
+
+## Workflows
+
+End-to-end multi-step AI systems:
+
+```
+Research Paper    →  Topic → Literature → Outline → Draft → Polish
+Startup           →  Idea → Market Research → MVP → Pitch
+Content           →  Brief → Outline → Draft → Publish-ready
+Learning          →  Goal → Curriculum → Lessons → Mastery
 ```
 
 ---
 
-## 📌 Roadmap
+## Versioning
 
-* ✅ Repository Foundation
-* 🔄 Core Prompt Collection
-* 🔄 Image Generation Templates
-* 🔄 Workflow Library
-* 📅 Benchmark Suite
-* 📅 Searchable Website
-* 📅 Community Platform
+Auto-increments on every push via GitHub Actions.
 
----
+```
+1 . 0 . 0 . 1
+│   │   │   └── Build  — auto on every push
+│   │   └────── Patch  — fixes & small updates
+│   └────────── Minor  — new category or feature
+└────────────── Major  — full restructure
+```
 
-## 🤝 Contributing
-
-PromptLibrary is community-driven.
-
-Contributions welcome:
-
-* New prompts
-* Workflow systems
-* Example galleries
-* Benchmarks
-* Guides and tutorials
-
-See `CONTRIBUTING.md`.
+Edit `VERSION` file manually to bump major · minor · patch.
 
 ---
 
-## ⭐ Support
+## Roadmap
 
-If PromptLibrary helps you:
+| Phase | Status | Goal |
+|---|---|---|
+| 1 | ✅ Done | Repo setup, structure, docs |
+| 2 | 🔄 Active | Core prompt collection |
+| 3 | 📅 Planned | Searchable website + ratings |
+| 4 | 📅 Planned | Benchmarks + case studies |
+| 5 | 📅 Planned | Global community resource |
 
-* Star the repository
-* Fork the project
-* Share it with others
-* Contribute new content
+---
+
+## Contributing
+
+Add prompts · improve existing ones · write guides · benchmark across models.
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines.
 
 ---
 
 <div align="center">
 
-Built by the community, for the community.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f0f0f&height=100&section=footer" width="100%"/>
 
-**Maintained by @sharjeelx03**
+⭐ **Star this repo if it helped you — it helps others find it.**
+
+*Maintained by [@sharjeelx03](https://github.com/sharjeelx03)*
 
 </div>
