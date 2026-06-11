@@ -1,6 +1,6 @@
 # 🌙 Lunar Guardian
 
-![Lunar Guardian](assets/lunar-guardian.png)
+![Lunar Guardian](assets/moon-guardian.png)
 
 ## Overview
 
