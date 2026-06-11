@@ -1,6 +1,6 @@
 # 🌿 Jungle Tracker
 
-![Jungle Tracker](assets/jungle-tracker.png)
+![Jungle Tracker](assets/jungle-hunter.png)
 
 ## Overview
 
