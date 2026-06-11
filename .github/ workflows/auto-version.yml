@@ -1,1 +1,59 @@
+name: Auto Version Bump
 
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths-ignore:
+      - "README.md"   # prevent infinite loop from README updates
+      - "VERSION"
+
+permissions:
+  contents: write
+
+jobs:
+  bump-version:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Read current version
+        id: read_version
+        run: |
+          if [ -f VERSION ]; then
+            VERSION=$(cat VERSION | tr -d '[:space:]')
+          else
+            VERSION="1.0.0.0"
+          fi
+          echo "current=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Bump build number
+        id: bump
+        run: |
+          VERSION="${{ steps.read_version.outputs.current }}"
+          # Split into parts: MAJOR.MINOR.PATCH.BUILD
+          IFS='.' read -r MAJOR MINOR PATCH BUILD <<< "$VERSION"
+          BUILD=$((BUILD + 1))
+          NEW_VERSION="$MAJOR.$MINOR.$PATCH.$BUILD"
+          echo "$NEW_VERSION" > VERSION
+          echo "new=$NEW_VERSION" >> $GITHUB_OUTPUT
+          echo "Bumped from $VERSION → $NEW_VERSION"
+
+      - name: Update version badge in README
+        run: |
+          NEW_VERSION="${{ steps.bump.outputs.new }}"
+          # Replace content between the version badge markers
+          sed -i "s|!\[Version\](https://img.shields.io/badge/version-[^)]*)|![Version](https://img.shields.io/badge/version-${NEW_VERSION}-blue?style=flat-square\&logo=github)|g" README.md
+
+      - name: Commit version bump
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add VERSION README.md
+          git commit -m "chore: auto-bump version to ${{ steps.bump.outputs.new }} [skip ci]"
+          git push
