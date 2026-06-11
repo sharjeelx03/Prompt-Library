@@ -1,275 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PromptLibrary&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=The%20Ultimate%20AI%20Prompt%20Engineering%20Resource&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=PromptLibrary&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Open-Source%20Prompt%20Engineering%20Library&descAlignY=60&descSize=18" width="100%"/>
 
-</div>
+# 🧠 PromptLibrary
 
-<div align="center">
+### High-Quality Prompts • Workflows • Frameworks • Guides
 
-<!-- BIG VERSION PILL -->
-<a href="./VERSION">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-000000?style=flat-square" height="1"/>
+<p>
+<a href="https://github.com/sharjeelx03/Prompt-Library/stargazers">
+<img src="https://img.shields.io/github/stars/sharjeelx03/Prompt-Library?style=for-the-badge&color=f59e0b"/>
 </a>
 
-<br/>
+<a href="https://github.com/sharjeelx03/Prompt-Library/network/members">
+<img src="https://img.shields.io/github/forks/sharjeelx03/Prompt-Library?style=for-the-badge&color=3b82f6"/>
+</a>
 
-<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%20VERSION%20%E2%96%88%E2%96%88%E2%96%88-1.0.0.1-blueviolet?style=for-the-badge&labelColor=0d0d0d&color=7c3aed&logoColor=white" height="36"/>
+<img src="https://img.shields.io/github/last-commit/sharjeelx03/Prompt-Library?style=for-the-badge&color=22c55e"/>
 
-<br/><br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sharjeelx03.Prompt-Library&style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/github/last-commit/sharjeelx03/Prompt-Library?label=LAST+UPDATED&style=for-the-badge&labelColor=0d0d0d&color=059669" height="28"/>
-&nbsp;
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sharjeelx03.Prompt-Library&left_text=VISITORS&style=for-the-badge&left_color=0d0d0d&right_color=dc2626" height="28"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/sharjeelx03/Prompt-Library?style=for-the-badge&labelColor=0d0d0d&color=f59e0b&label=STARS" height="28"/>
-&nbsp;
-<img src="https://img.shields.io/github/forks/sharjeelx03/Prompt-Library?style=for-the-badge&labelColor=0d0d0d&color=3b82f6&label=FORKS" height="28"/>
+<p>
+<a href="./prompts">Browse Prompts</a>
+•
+<a href="./workflows">Workflows</a>
+•
+<a href="./resources">Resources</a>
+•
+<a href="./CONTRIBUTING.md">Contribute</a>
+</p>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/Models-ChatGPT%20%7C%20Claude%20%7C%20Gemini%20%7C%20GPT--4-blue?style=flat-square&labelColor=1a1a1a"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-```
-  ██████╗ ██████╗  ██████╗ ███╗   ███╗██████╗ ████████╗
-  ██╔══██╗██╔══██╗██╔═══██╗████╗ ████║██╔══██╗╚══██╔══╝
-  ██████╔╝██████╔╝██║   ██║██╔████╔██║██████╔╝   ██║   
-  ██╔═══╝ ██╔══██╗██║   ██║██║╚██╔╝██║██╔═══╝    ██║   
-  ██║     ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║        ██║   
-  ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝        ╚═╝   
-            L I B R A R Y  ✦  v1.0.0.1
-```
-
-**The largest open-source collection of battle-tested AI prompts, workflows, and prompt engineering guides — for every major LLM.**
-
-[🚀 Get Started](#-whats-inside) · [📖 Browse Prompts](./prompts/) · [🤝 Contribute](CONTRIBUTING.md) · [🗺️ Roadmap](#-roadmap)
+> A community-driven collection of production-ready prompts, prompt frameworks, AI workflows, guides, and examples.
 
 </div>
 
 ---
 
-## ✦ Why PromptLibrary?
+## 🚀 What You'll Find
 
-<table>
-<tr>
-<td width="50%">
+### 🎨 Image Generation
 
-**🆓 Free & Open Source**  
-No paywalls. No subscriptions. No gatekeeping.
+Character Design, Concept Art, Product Photography, Environment Design, Branding, UI Concepts
 
-**🌐 Multi-Model**  
-Every prompt tested across ChatGPT, Claude, Gemini, GPT-4, Mistral & LLaMA.
+### 🎬 Video Generation
 
-**🗂️ Organized & Searchable**  
-Structured by domain, use case, and technique — find what you need fast.
+Storyboards, Cinematics, Short Films, Advertisements, Social Media Content
 
-</td>
-<td width="50%">
+### 💻 Coding
 
-**👥 Community-Driven**  
-Built by AI practitioners worldwide, for everyone.
+Debugging, Refactoring, Architecture Reviews, Documentation, System Design
 
-**📚 Beyond Just Prompts**  
-Full prompt engineering guides + the science behind them.
+### 🔬 Research
 
-**⚡ Real Workflows**  
-End-to-end multi-step systems for complex tasks — not just one-liners.
+Literature Reviews, Analysis, Summarization, Study Workflows
 
-</td>
-</tr>
-</table>
+### 💼 Business
+
+Marketing, Sales, Strategy, Pitch Decks, Validation
+
+### 📚 Learning Resources
+
+Prompt Engineering Guides, Frameworks, Tutorials, Benchmarks
 
 ---
 
-## 📂 What's Inside
+## 📂 Repository Structure
 
-### 💬 Prompt Collections
-
-> Carefully engineered prompts organized by domain — not generic templates, but production-tested inputs.
-
-| Category | What's Inside |
-|---|---|
-| 🖥️ `prompts/coding/` | Debugging, code review, architecture, refactoring |
-| 🔬 `prompts/research/` | Literature review, summarization, deep analysis |
-| ✍️ `prompts/writing/` | Blog posts, essays, copywriting, storytelling |
-| 🎓 `prompts/education/` | Lesson plans, study guides, Socratic tutoring |
-| 💼 `prompts/business/` | Strategy, marketing, sales, pitch decks |
-| ⏱️ `prompts/productivity/` | Task planning, decision-making, time management |
-| 🤖 `prompts/robotics/` | ROS, motion planning, sensor fusion, simulation |
-| 🎨 `prompts/image-generation/` | Midjourney, DALL·E, Stable Diffusion, Flux |
-| 🎬 `prompts/video-generation/` | Sora, Runway, Kling prompts & techniques |
-
----
-
-### ⚙️ Workflows
-
-> Multi-step AI systems that produce real-world outcomes — not just single prompts.
-
-```
-📄 Research Paper     →  Topic → Outline → Literature → Draft → Polish
-🚀 Startup Validation →  Idea → Market Research → MVP → Pitch Deck  
-📣 Content Creation   →  Brief → Outline → Draft → SEO → Publish-ready
-🧠 Learning System    →  Goal → Curriculum → Lessons → Quiz → Mastery
-```
-
----
-
-### 🎓 Prompt Engineering Guides
-
-Learn the techniques used by top AI engineers and researchers:
-
-| Technique | Description |
-|---|---|
-| 🎯 Zero-Shot & Few-Shot | Prompt without examples vs. guided with examples |
-| 🔗 Chain-of-Thought (CoT) | Step-by-step reasoning for complex tasks |
-| 🎭 Role & Persona Design | Give the model identity and context |
-| 📋 Structured Output | JSON, XML, Markdown formatting mastery |
-| 🧩 Task Decomposition | Break complex goals into subtasks |
-| 🗃️ Context Management | Work within token limits intelligently |
-| 🔁 Iterative Refinement | Improve outputs systematically |
-| 🔍 RAG Prompts | Retrieval-Augmented Generation patterns |
-| 🤖 Agentic Patterns | Multi-step autonomous agent prompts |
-
----
-
-### 📊 Benchmarks
-
-Side-by-side prompt performance comparisons:
-
-```
-┌─────────────────┬─────────────┬─────────────┬─────────────┐
-│   Model         │  Reasoning  │  Creativity │   Speed     │
-├─────────────────┼─────────────┼─────────────┼─────────────┤
-│  GPT-4o         │     ★★★★★   │     ★★★★☆   │     ★★★★☆   │
-│  Claude Opus    │     ★★★★★   │     ★★★★★   │     ★★★☆☆   │
-│  Gemini Ultra   │     ★★★★☆   │     ★★★★☆   │     ★★★★☆   │
-│  DeepSeek       │     ★★★★☆   │     ★★★☆☆   │     ★★★★★   │
-│  Mistral        │     ★★★☆☆   │     ★★★☆☆   │     ★★★★★   │
-└─────────────────┴─────────────┴─────────────┴─────────────┘
-```
-
-*Full benchmark data in `/benchmarks/`*
-
----
-
-## 🗂️ Repository Structure
-
-```
+```text
 Prompt-Library/
-│
-├── 📁 .github/
-│   └── 📁 workflows/
-│       └── 📄 auto-version.yml      ← Bumps version on every push
-│
-├── 📁 prompts/
-│   ├── 🖥️  coding/
-│   ├── 🔬  research/
-│   ├── ✍️  writing/
-│   ├── 🎓  education/
-│   ├── 💼  business/
-│   ├── ⏱️  productivity/
-│   ├── 🤖  robotics/
-│   ├── 🎨  image-generation/
-│   └── 🎬  video-generation/
-│
-├── 📁 workflows/
-├── 📁 resources/
-├── 📁 benchmarks/
-├── 📁 docs/
-├── 📄 VERSION                       ← Current: 1.0.0.1
-└── 📄 README.md
+├── prompts/
+├── workflows/
+├── resources/
+├── benchmarks/
+├── docs/
+└── README.md
 ```
-
----
-
-## 🔢 Auto-Versioning
-
-Every push to `main` **automatically** increments the build number via GitHub Actions — no manual version management.
-
-```
-  1  .  0  .  0  .  1
-  ▲     ▲     ▲     ▲
-  │     │     │     └─── Build   → auto-bumped on every push ✅
-  │     │     └───────── Patch   → bug fixes & small updates
-  │     └─────────────── Minor   → new category or major feature
-  └───────────────────── Major   → complete library restructure
-```
-
-To bump major/minor/patch manually, just edit the `VERSION` file and push.
 
 ---
 
 ## 📌 Roadmap
 
-```
-  ✅  Phase 1  ──  Repo setup · structure · documentation
-  🔄  Phase 2  ──  Core prompt collection across all categories   ← NOW
-  📅  Phase 3  ──  Searchable website · prompt ratings
-  📅  Phase 4  ──  Full benchmarks · case studies
-  📅  Phase 5  ──  Global community · industry-standard resource
-```
-
----
-
-## 🌍 Who Is This For?
-
-<table>
-<tr>
-<td align="center" width="16%">🧑‍💻<br/><b>Developers</b><br/><sub>Building AI apps & agents</sub></td>
-<td align="center" width="16%">🔬<br/><b>Researchers</b><br/><sub>Academic LLM work</sub></td>
-<td align="center" width="16%">🎓<br/><b>Students</b><br/><sub>Learning from scratch</sub></td>
-<td align="center" width="16%">✍️<br/><b>Writers</b><br/><sub>Content & copywriting</sub></td>
-<td align="center" width="16%">🚀<br/><b>Founders</b><br/><sub>AI-powered strategy</sub></td>
-<td align="center" width="16%">🤖<br/><b>Engineers</b><br/><sub>Robotics & technical AI</sub></td>
-</tr>
-</table>
+* ✅ Repository Foundation
+* 🔄 Core Prompt Collection
+* 🔄 Image Generation Templates
+* 🔄 Workflow Library
+* 📅 Benchmark Suite
+* 📅 Searchable Website
+* 📅 Community Platform
 
 ---
 
 ## 🤝 Contributing
 
-All skill levels welcome — from first-timers to seasoned AI engineers.
+PromptLibrary is community-driven.
 
-**Ways to contribute:**
-- ➕ Add new prompts to any category
-- 🔧 Improve or optimize existing prompts
-- 🔗 Share multi-step workflows
-- 📖 Write prompt engineering guides
-- 📊 Benchmark prompts across models
-- 🐛 Report issues or suggest improvements
+Contributions welcome:
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for full guidelines.
+* New prompts
+* Workflow systems
+* Example galleries
+* Benchmarks
+* Guides and tutorials
+
+See `CONTRIBUTING.md`.
 
 ---
 
-## 📜 License
+## ⭐ Support
 
-Licensed under the **[MIT License](LICENSE)** — free to use, share, and build upon with attribution.
+If PromptLibrary helps you:
+
+* Star the repository
+* Fork the project
+* Share it with others
+* Contribute new content
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+Built by the community, for the community.
 
-**If this helped you, please** ⭐ **star the repo — it helps others discover it.**
-
-[![Star History](https://img.shields.io/github/stars/sharjeelx03/Prompt-Library?style=social)](https://github.com/sharjeelx03/Prompt-Library/stargazers)
-&nbsp;&nbsp;
-[![Follow](https://img.shields.io/github/followers/sharjeelx03?style=social&label=Follow%20%40sharjeelx03)](https://github.com/sharjeelx03)
-
-<br/>
-
-*Built by the community, for the community.*  
-*Maintained with ♥ by [@sharjeelx03](https://github.com/sharjeelx03)*
+**Maintained by @sharjeelx03**
 
 </div>
