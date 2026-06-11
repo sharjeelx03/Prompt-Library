@@ -1,6 +1,6 @@
 # 🎯 Bounty Hunter
 
-![Bounty Hunter](assets/bounty-hunter.png)
+![Bounty Hunter](assets/whiskers-and-nibbles.png)
 
 ## Overview
 
