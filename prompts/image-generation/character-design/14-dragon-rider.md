@@ -1,6 +1,6 @@
 # 🐉 Dragon Rider
 
-![Dragon Rider](assets/dragon-rider.png)
+![Dragon Rider](assets/mud-warrior.png)
 
 ## Overview
 
