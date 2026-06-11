@@ -1,6 +1,6 @@
 # ❄️ Arctic Survivor
 
-![Arctic Survivor](assets/arctic-survivor.png)
+![Arctic Survivor](assets/arctic-survivalist.png)
 
 ## Overview
 
