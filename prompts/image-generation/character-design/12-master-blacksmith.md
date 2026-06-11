@@ -1,6 +1,6 @@
 # 🔥 Master Blacksmith
 
-![Master Blacksmith](assets/master-blacksmith.png)
+![Master Blacksmith](assets/volcano-blacksmith.png)
 
 ## Overview
 
