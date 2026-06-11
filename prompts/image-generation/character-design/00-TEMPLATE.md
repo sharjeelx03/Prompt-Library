@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="assets/templ.png" alt="Character Design Template" width="100%" />
-
-<br/>
-
 # Character Design Template
 
 **A structured, professional framework for generating original characters across all major AI image platforms.**
@@ -11,9 +5,12 @@
 <br/>
 
 [![Version](https://img.shields.io/badge/version-1.0.0-6c63ff?style=flat-square)](.)
-[![License](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)](.)
-[![Category](https://img.shields.io/badge/category-Image%20Generation-f59e0b?style=flat-square)](.)
-[![Level](https://img.shields.io/badge/level-Advanced-ef4444?style=flat-square)](.)
+
+<br/>
+
+<div align="center">
+
+<img src="assets/templ.png" alt="Character Design Template" width="100%" />
 
 <br/>
 
