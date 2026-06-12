@@ -1,3 +1,4 @@
+![Cyberpunk Assassin](assets/mind-blowing.mp4)
 Video Generator (Remotion)
 Create professional motion graphics videos programmatically with React and Remotion.
 
